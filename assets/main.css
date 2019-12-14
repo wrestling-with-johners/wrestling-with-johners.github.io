@@ -123,10 +123,6 @@ img::-moz-selection {
           color: #212529; }
           #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
             color: #0085A1; }
-        #mainNav.is-fixed .navbar-nav > li.nav-item > a {
-          color: #212529; }
-          #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-            color: #0085A1; }
       #mainNav.is-visible {
         /* if the user changes the scrolling direction, we show the header */
         -webkit-transform: translate3d(0, 100%, 0);
@@ -217,7 +213,7 @@ header.masthead {
       font-size: 30px; } }
 
 img.restrict-width {
-  max-width: -webkit-fill-available; }
+  max-width: 100%; }
 
 .post-preview > a {
   color: #212529; }
@@ -326,3 +322,13 @@ footer {
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px; }
+
+.social .social-flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+  .social .social-flexbox .anchor-image {
+    width: 2.2em;
+    height: 1.8em;
+    margin-left: 0.1em;
+    margin-top: 0.1em; }
