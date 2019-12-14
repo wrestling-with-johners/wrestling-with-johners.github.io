@@ -83,6 +83,8 @@ img::-moz-selection {
     letter-spacing: 1px;
     text-transform: uppercase;
     background-color: #212529;
+    color: #fff;
+    padding-left: 1em;
     border-radius: 25px; }
   @media only screen and (min-width: 992px) {
     #mainNav {
