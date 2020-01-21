@@ -2,23 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/jc-bundy-avis/</loc>
-<lastmod>2020-01-20T09:34:16+00:00</lastmod>
+<lastmod>2020-01-21T14:18:16+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/john-scott/</loc>
-<lastmod>2020-01-20T09:34:16+00:00</lastmod>
+<lastmod>2020-01-21T14:18:16+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/lexi-helms/</loc>
-<lastmod>2020-01-20T09:34:16+00:00</lastmod>
+<lastmod>2020-01-21T14:18:16+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/matt-bayliss/</loc>
-<lastmod>2020-01-20T09:34:16+00:00</lastmod>
+<lastmod>2020-01-21T14:18:16+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/ricky-j/</loc>
-<lastmod>2020-01-20T09:34:16+00:00</lastmod>
+<lastmod>2020-01-21T14:18:16+00:00</lastmod>
 </url>
 <url>
 <loc>/WrestleMania-34-Vlog-Day-1-Meeting-Toni-Storm-and-Tommy-Dreamer-Bourbon-St/</loc>
@@ -113,7 +113,7 @@
 <lastmod>2019-01-24T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP20/</loc>
+<loc>/podcasts/interviews/EP20/</loc>
 <lastmod>2019-01-27T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -161,7 +161,7 @@
 <lastmod>2019-03-24T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP32/</loc>
+<loc>/podcasts/interviews/EP32/</loc>
 <lastmod>2019-03-24T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -205,7 +205,7 @@
 <lastmod>2019-05-03T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP40/</loc>
+<loc>/podcasts/interviews/EP40/</loc>
 <lastmod>2019-05-04T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -261,7 +261,7 @@
 <lastmod>2019-07-06T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP54/</loc>
+<loc>/podcasts/interviews/EP54/</loc>
 <lastmod>2019-07-15T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -349,7 +349,7 @@
 <lastmod>2019-10-19T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP74/</loc>
+<loc>/podcasts/interviews/EP74/</loc>
 <lastmod>2019-10-20T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -369,7 +369,7 @@
 <lastmod>2019-11-17T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP79/</loc>
+<loc>/podcasts/interviews/EP79/</loc>
 <lastmod>2019-11-20T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -405,7 +405,7 @@
 <lastmod>2019-12-03T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP84/</loc>
+<loc>/podcasts/interviews/EP84/</loc>
 <lastmod>2019-12-05T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -429,7 +429,7 @@
 <lastmod>2019-12-21T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP89/</loc>
+<loc>/podcasts/interviews/EP89/</loc>
 <lastmod>2019-12-26T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -457,7 +457,7 @@
 <lastmod>2020-01-02T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP90/</loc>
+<loc>/podcasts/interviews/EP90/</loc>
 <lastmod>2020-01-03T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -505,7 +505,7 @@
 <lastmod>2020-01-13T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/podcasts/EP95/</loc>
+<loc>/podcasts/interviews/EP95/</loc>
 <lastmod>2020-01-16T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -538,6 +538,12 @@
 </url>
 <url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/interviews/</loc>
+</url>
+<url>
+<loc>/interviews/page/2/</loc>
 </url>
 <url>
 <loc>/podcasts/</loc>
