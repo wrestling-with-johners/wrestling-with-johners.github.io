@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/jc-bundy-avis/</loc>
-<lastmod>2020-08-02T18:09:04+00:00</lastmod>
+<lastmod>2020-08-05T09:53:39+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/john-scott/</loc>
-<lastmod>2020-08-02T18:09:04+00:00</lastmod>
+<lastmod>2020-08-05T09:53:39+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/lexi-helms/</loc>
-<lastmod>2020-08-02T18:09:04+00:00</lastmod>
+<lastmod>2020-08-05T09:53:39+00:00</lastmod>
 </url>
 <url>
 <loc>/authors/matt-bayliss/</loc>
-<lastmod>2020-08-02T18:09:04+00:00</lastmod>
+<lastmod>2020-08-05T09:53:39+00:00</lastmod>
 </url>
 <url>
 <loc>/WrestleMania-34-Vlog-Day-1-Meeting-Toni-Storm-and-Tommy-Dreamer-Bourbon-St/</loc>
@@ -725,7 +725,7 @@
 <lastmod>2020-06-17T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/turnbuckle-arms-podcast/Turnbuckle-Arms-Ep01-Introducing-The-Brewd-Nia-Jax-Dangerous-or-Not-Edges-Injury-Alltime-Favourite-Matches-Plus-so-much-more/</loc>
+<loc>/podcasts/turnbuckle-arms-podcast/EP1/</loc>
 <lastmod>2020-06-21T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -737,7 +737,7 @@
 <lastmod>2020-06-27T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/interviews/TJ-Sky-Interview-The-Turnbuckle-Arms-Podcast-Bonus-Episode/</loc>
+<loc>/interviews/turnbuckle-arms-podcast/TJ-Sky-Interview-The-Turnbuckle-Arms-Podcast-Bonus-Episode/</loc>
 <lastmod>2020-07-05T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -757,7 +757,7 @@
 <lastmod>2020-07-17T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/turnbuckle-arms-podcast/Turnbuckle-Arms-Ep02-Favourite-Gimmicks-ThankYou-Taker-Recommend-An-Indy/</loc>
+<loc>/podcasts/turnbuckle-arms-podcast/EP2/</loc>
 <lastmod>2020-07-19T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -773,7 +773,7 @@
 <lastmod>2020-08-01T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>/A-Swift-Half-AEW-Progress-Review-Turnbuckle-Arms-Podcast/</loc>
+<loc>/turnbuckle-arms-podcast/A-Swift-Half-AEW-Progress-Review-Turnbuckle-Arms-Podcast/</loc>
 <lastmod>2020-08-02T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -799,6 +799,9 @@
 </url>
 <url>
 <loc>/articles/page/3/</loc>
+</url>
+<url>
+<loc>/turnbuckle/</loc>
 </url>
 <url>
 <loc>/news/</loc>
@@ -916,8 +919,5 @@
 </url>
 <url>
 <loc>/interviews/page/6/</loc>
-</url>
-<url>
-<loc>/turnbuckle/</loc>
 </url>
 </urlset>
