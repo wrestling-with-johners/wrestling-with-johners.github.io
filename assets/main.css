@@ -30,9 +30,11 @@ img::-moz-selection { color: #fff; background: transparent; }
 
 #mainNav .navbar-toggler { font-size: 12px; font-weight: 800; padding: 13px; text-transform: uppercase; color: #343a40; }
 
-#mainNav .navbar-nav { align-items: center; }
+#mainNav .navbar-nav { align-items: center; flex-wrap: wrap; justify-content: center; }
 
-#mainNav .navbar-nav > li.nav-item > a { font-size: 12px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; background-color: #212529; color: #fff; padding-left: 1em; border-radius: 25px; }
+#mainNav .navbar-nav > li.nav-item { margin: 0.1em; }
+
+#mainNav .navbar-nav > li.nav-item > a { font-size: 12px; font-weight: 800; letter-spacing: 1px; text-transform: uppercase; background-color: #212529; color: #fff; padding-left: 1em; padding-right: 1em; border-radius: 25px; text-align: center; }
 
 @media only screen and (min-width: 992px) { #mainNav { border-bottom: 1px solid transparent; background: transparent; } #mainNav .navbar-brand { padding: 10px 20px; color: #fff; } #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover { color: rgba(255, 255, 255, 0.8); } #mainNav .navbar-nav > li.nav-item > a { padding: 10px 20px; color: #fff; } #mainNav .navbar-nav > li.nav-item > a:focus, #mainNav .navbar-nav > li.nav-item > a:hover { color: rgba(255, 255, 255, 0.8); } }
 
