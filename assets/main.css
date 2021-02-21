@@ -66,9 +66,11 @@ header.masthead .post-heading .meta, header.masthead .post-heading .subheading {
 
 header.masthead .post-heading .subheading { font-size: 24px; font-weight: 600; margin: 10px 0 30px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
-header.masthead .post-heading .meta { font-size: 20px; font-weight: 300; font-style: italic; font-family: 'Lora', 'Times New Roman', serif; }
+header.masthead .post-heading .meta { font-size: 20px; font-weight: 300; font-style: italic; font-family: 'Lora', 'Times New Roman', serif; padding-bottom: 0.1em; padding-top: 0.1em; }
 
 header.masthead .post-heading .meta a { color: #fff; }
+
+header.masthead .post-heading .meta > ul > li { list-style: none; }
 
 @media only screen and (min-width: 768px) { header.masthead .post-heading h1 { font-size: 55px; } header.masthead .post-heading .subheading { font-size: 30px; } }
 
