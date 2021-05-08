@@ -216,10 +216,45 @@
         <li class="nav-item">
           <a class="nav-link" href="/authors">Authors</a>
         </li>
+        <li>
+          <!-- Html Elements for Search -->
+          <div id="search-container">
+            <input type="text" id="search-input" placeholder="search...">
+          </div>
+        </li>
       </ul>
     </div>
   </div>
+  <ul id="results-container"></ul>
 </nav>
+
+<!-- Script pointing to search-script.js -->
+<script src="/js/search.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        noResultsText: "No search results found.",
+        limit: 100,
+        debounceTime: 500,
+        searchResultTemplate:
+            `
+<article class="post-preview">
+  <a href="{url}">
+    <h2 class="post-title">{title}</h2>
+    <h3 class="post-subtitle">{excerpt}</h3>
+  </a>
+  <p class="post-meta">Posted by
+    <a href="{author-url}">{author}</a>
+    on {date}</p>
+</article>
+<hr>
+`,
+    })
+</script>
 
 
   <!-- Page Header -->
@@ -369,7 +404,7 @@
     <h3 class="post-subtitle">
 </h3>
     
-	
+    
     <h2>Youtube</h2>
     <a href="https://www.youtube.com/watch?v=UAWFR_EUFIs" target="_blank"><img class="restrict-width" src="http://img.youtube.com/vi/UAWFR_EUFIs/0.jpg" /></a>
     
@@ -396,7 +431,7 @@
     <h3 class="post-subtitle">
 </h3>
     
-	
+    
     <h2>Youtube</h2>
     <a href="https://www.youtube.com/watch?v=5cIF0VoACYI" target="_blank"><img class="restrict-width" src="http://img.youtube.com/vi/5cIF0VoACYI/0.jpg" /></a>
     
@@ -423,7 +458,7 @@
     <h3 class="post-subtitle">
 </h3>
     
-	
+    
     <h2>Youtube</h2>
     <a href="https://www.youtube.com/watch?v=EvhaD_DRvRk" target="_blank"><img class="restrict-width" src="http://img.youtube.com/vi/EvhaD_DRvRk/0.jpg" /></a>
     
@@ -450,7 +485,7 @@
     <h3 class="post-subtitle">
 </h3>
     
-	
+    
     <h2>Youtube</h2>
     <a href="https://www.youtube.com/watch?v=CFx5D0WvpZM" target="_blank"><img class="restrict-width" src="http://img.youtube.com/vi/CFx5D0WvpZM/0.jpg" /></a>
     
@@ -477,7 +512,7 @@
     <h3 class="post-subtitle">
 </h3>
     
-	
+    
     <h2>Youtube</h2>
     <a href="https://www.youtube.com/watch?v=30dRYrxp8W0" target="_blank"><img class="restrict-width" src="http://img.youtube.com/vi/30dRYrxp8W0/0.jpg" /></a>
     
