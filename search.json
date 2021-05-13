@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "VIDCAST 52! FEAT Slice Boogie",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-52-FEAT-Slice-Boogie/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "May 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 197! My conversation with Slice Boogie",
+    "url"      : "/straight-talk-wrestling/Episode-197-My-conversation-with-Slice-Boogie/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "May 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "This Week in History Episode #21  May 7-13",
     "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-21-May-713/",
     "category" : "scumbags-of-wrestling, videos",
@@ -1921,19 +1947,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 52! FEAT Slice Boogie",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-52-FEAT-Slice-Boogie/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "May 01, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
