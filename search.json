@@ -28,6 +28,19 @@
   
   {
 
+    "title"    : "WTLS Underground ep 1",
+    "url"      : "/videos/work-the-left-side-podcast/WTLS-Underground-ep-1/",
+    "category" : "videos, work-the-left-side-podcast",
+    "date"     : "May 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Nik Towers",
+    "author-url": "authors/nik-towers"
+
+  } ,
+  
+  {
+
     "title"    : "NEW JACK PASSES AWAY AT AGE 58 | TRIBUTE TO JEROME YOUNG RIP",
     "url"      : "/jofo-in-the-ring/videos/NEW-JACK-PASSES-AWAY-AT-AGE-58-TRIBUTE-TO-JEROME-YOUNG-RIP/",
     "category" : "jofo-in-the-ring, videos",
@@ -36,6 +49,19 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "live_20210514_081956",
+    "url"      : "/guilmy-talks/live20210514081956/",
+    "category" : "guilmy-talks",
+    "date"     : "May 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Justin Guilmette",
+    "author-url": "authors/justin-guilmette"
 
   } ,
   
