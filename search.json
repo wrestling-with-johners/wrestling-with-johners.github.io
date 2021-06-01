@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "CCW Pro Wrestling Tonight: Episode 27",
+    "url"      : "/pro-wrestling-tonight/videos/CCW-Pro-Wrestling-Tonight-Episode-27/",
+    "category" : "pro-wrestling-tonight, videos",
+    "date"     : "June 01, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chicagoland Championship Wrestling",
+    "author-url": "authors/chicagoland-championship-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Rey Calitri Interview",
+    "url"      : "/bob-culture/videos/Rey-Calitri-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "June 01, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "Steve Lynskey Interview #IMPACT #TNAwrestling #WOSwrestling #ROH",
     "url"      : "/videos/wrestling-with-johners/Steve-Lynskey-Interview-IMPACT-TNAwrestling-WOSwrestling-ROH/",
     "category" : "videos, wrestling-with-johners",
