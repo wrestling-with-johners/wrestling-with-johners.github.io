@@ -15,6 +15,32 @@
   
   {
 
+    "title"    : "WTLS Ep20 | SPOTLIGHT on X-PAC",
+    "url"      : "/work-the-left-side-podcast/WTLS-Ep20-SPOTLIGHT-on-XPAC/",
+    "category" : "work-the-left-side-podcast",
+    "date"     : "June 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Nik Towers",
+    "author-url": "authors/nik-towers"
+
+  } ,
+  
+  {
+
+    "title"    : "MLW Rewind Episode 20",
+    "url"      : "/straight-talk-wrestling/videos/MLW-Rewind-Episode-20/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "June 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "#Shorts | Billy’s Day of Birth Bonanza News",
     "url"      : "/scottish-wrestling-network/videos/Shorts-Billys-Day-of-Birth-Bonanza-News/",
     "category" : "scottish-wrestling-network, videos",
@@ -257,19 +283,6 @@
     
     "author"   : "Toilet-Side Wrestling Talk",
     "author-url": "authors/toilet-side-wrestling-talk"
-
-  } ,
-  
-  {
-
-    "title"    : "MLW Rewind Episode 20",
-    "url"      : "/straight-talk-wrestling/videos/MLW-Rewind-Episode-20/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "June 12, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
