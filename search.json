@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Steve Ahrendt Interview",
+    "url"      : "/videos/wrestling-with-johners/Steve-Ahrendt-Interview/",
+    "category" : "videos, wrestling-with-johners",
+    "date"     : "June 14, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "John Scott",
+    "author-url": "authors/john"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 45-&quot;Irish Xtreme&quot; Ronnie Clodfelter",
     "url"      : "/whaddya-say-with-ddj/Episode-45Irish-Xtreme-Ronnie-Clodfelter/",
     "category" : "whaddya-say-with-ddj",
@@ -30,6 +43,19 @@
 
     "title"    : "Scumbags of Wrestling Podcast Episode #155",
     "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Podcast-Episode-155/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "June 14, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags Prediction League: NXT Takeover In Your House 2",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-Prediction-League-NXT-Takeover-In-Your-House-2/",
     "category" : "scumbags-of-wrestling, videos",
     "date"     : "June 14, 2021",
     "excerpt"  : " ",
