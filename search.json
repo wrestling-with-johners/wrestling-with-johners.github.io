@@ -2,8 +2,8 @@
   
   {
 
-    "title"    : "NXT TakeOver: In Your House 2021 - Wrestling With Johners LIVE!",
-    "url"      : "/videos/wrestling-with-johners/NXT-TakeOver-In-Your-House-2021-Wrestling-With-Johners-LIVE/",
+    "title"    : "NXT TakeOver: In Your House 2021",
+    "url"      : "/videos/wrestling-with-johners/NXT-TakeOver-In-Your-House-2021/",
     "category" : "videos, wrestling-with-johners",
     "date"     : "June 15, 2021",
     "excerpt"  : " ",
@@ -54,6 +54,32 @@
   
   {
 
+    "title"    : "A boring Go-Home Show for a lackluster PPV | Eva Marie makes her &quot;debut&quot; | Monday Night RAW review",
+    "url"      : "/rope-break/videos/A-boring-GoHome-Show-for-a-lackluster-PPV-Eva-Marie-makes-her-debut-Monday-Night-RAW-review/",
+    "category" : "rope-break, videos",
+    "date"     : "June 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Rope Break",
+    "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "Walk and Talk June 15th 2021",
+    "url"      : "/guilmy-talks/Walk-and-Talk-June-15th-2021/",
+    "category" : "guilmy-talks",
+    "date"     : "June 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Justin Guilmette",
+    "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
     "title"    : "Figlife Episode 15 : It&#39;s #TITLETUESDAY with King Koley ",
     "url"      : "/da-call-up/Figlife-Episode-15-Its-TITLETUESDAY-with-King-Koley/",
     "category" : "da-call-up",
@@ -70,6 +96,19 @@
     "title"    : "Danny Limelight Interview",
     "url"      : "/bob-culture/videos/Danny-Limelight-Interview/",
     "category" : "bob-culture, videos",
+    "date"     : "June 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "NXT In Your House Predictions 2021",
+    "url"      : "/bob-culture/NXT-In-Your-House-Predictions-2021/",
+    "category" : "bob-culture",
     "date"     : "June 15, 2021",
     "excerpt"  : " ",
     
