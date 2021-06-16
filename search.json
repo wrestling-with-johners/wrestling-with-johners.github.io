@@ -2,19 +2,6 @@
   
   {
 
-    "title"    : "Vidcast 57! Featuring Bill Collier",
-    "url"      : "/straight-talk-wrestling/videos/Vidcast-57-Featuring-Bill-Collier/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "June 16, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
-
-  } ,
-  
-  {
-
     "title"    : "SAMOA JOE Returns to NXT to be the New Enforcer | WWE NXT Highlights | Review",
     "url"      : "/rope-break/videos/SAMOA-JOE-Returns-to-NXT-to-be-the-New-Enforcer-WWE-NXT-Highlights-Review/",
     "category" : "rope-break, videos",
@@ -127,6 +114,19 @@
     
     "author"   : "Toilet-Side Wrestling Talk",
     "author-url": "authors/toilet-side-wrestling-talk"
+
+  } ,
+  
+  {
+
+    "title"    : "Vidcast 57! Featuring Bill Collier",
+    "url"      : "/straight-talk-wrestling/videos/Vidcast-57-Featuring-Bill-Collier/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "June 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
 
   } ,
   
