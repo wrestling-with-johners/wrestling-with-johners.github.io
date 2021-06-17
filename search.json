@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "The Power Hour w:Acid Jaz",
+    "url"      : "/power-hour/videos/The-Power-Hour-wAcid-Jaz/",
+    "category" : "power-hour, videos",
+    "date"     : "June 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Power Hour",
+    "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
     "title"    : "WWE EUGENE INTERVIEW | NICK DINSMORE | JOFO IN THE RING #59",
     "url"      : "/jofo-in-the-ring/videos/WWE-EUGENE-INTERVIEW-NICK-DINSMORE-JOFO-IN-THE-RING-59/",
     "category" : "jofo-in-the-ring, videos",
@@ -10,6 +23,32 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "ACH retires, Paul Wight to make AEW in ring debut?, Trey Baxter debuts for NXT, Shingo vs Kota!",
+    "url"      : "/alliance-pro-wrestling-network/videos/ACH-retires-Paul-Wight-to-make-AEW-in-ring-debut-Trey-Baxter-debuts-for-NXT-Shingo-vs-Kota/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "June 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "ACH retires, Paul Wight to make AEW n ring debut?, Trey Baxter debuts for NXT, Shingo vs Kota!",
+    "url"      : "/alliance-pro-wrestling-network/ACH-retires-Paul-Wight-to-make-AEW-n-ring-debut-Trey-Baxter-debuts-for-NXT-Shingo-vs-Kota/",
+    "category" : "alliance-pro-wrestling-network",
+    "date"     : "June 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
