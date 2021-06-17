@@ -15,19 +15,6 @@
   
   {
 
-    "title"    : "WWE EUGENE INTERVIEW | NICK DINSMORE | JOFO IN THE RING #59",
-    "url"      : "/jofo-in-the-ring/videos/WWE-EUGENE-INTERVIEW-NICK-DINSMORE-JOFO-IN-THE-RING-59/",
-    "category" : "jofo-in-the-ring, videos",
-    "date"     : "June 17, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "JOFO In The Ring",
-    "author-url": "authors/jofo-in-the-ring"
-
-  } ,
-  
-  {
-
     "title"    : "Sam Leterna Interview",
     "url"      : "/bob-culture/videos/Sam-Leterna-Interview/",
     "category" : "bob-culture, videos",
@@ -140,6 +127,19 @@
     
     "author"   : "The Power Hour",
     "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
+    "title"    : "WWE EUGENE INTERVIEW | NICK DINSMORE | JOFO IN THE RING #59",
+    "url"      : "/jofo-in-the-ring/videos/WWE-EUGENE-INTERVIEW-NICK-DINSMORE-JOFO-IN-THE-RING-59/",
+    "category" : "jofo-in-the-ring, videos",
+    "date"     : "June 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
 
   } ,
   
