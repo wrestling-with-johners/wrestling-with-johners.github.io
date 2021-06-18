@@ -28,9 +28,9 @@
   
   {
 
-    "title"    : "Interview with Marc Mero",
-    "url"      : "/interviews/such-good-shoot/Interview-with-Marc-Mero/",
-    "category" : "interviews, such-good-shoot",
+    "title"    : "PPV RearView May 1997 - IYH A Cold Day in HELL",
+    "url"      : "/such-good-shoot/PPV-RearView-May-1997-IYH-A-Cold-Day-in-HELL/",
+    "category" : "such-good-shoot",
     "date"     : "June 18, 2021",
     "excerpt"  : " ",
     
@@ -41,14 +41,14 @@
   
   {
 
-    "title"    : "This Week in History Episode #27  June 11 17",
-    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-27-June-11-17/",
-    "category" : "scumbags-of-wrestling, videos",
+    "title"    : "Interview with Marc Mero",
+    "url"      : "/interviews/such-good-shoot/Interview-with-Marc-Mero/",
+    "category" : "interviews, such-good-shoot",
     "date"     : "June 18, 2021",
     "excerpt"  : " ",
     
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
 
   } ,
   
@@ -80,6 +80,19 @@
   
   {
 
+    "title"    : "SWN Podcast | Big Bennie II: Billy &amp; Bennie&#39;s Excellent Adventure [Explicit]",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-Big-Bennie-II-Billy-Bennies-Excellent-Adventure-Explicit/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "June 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "1 year anniversary episode with Chuck mambo",
     "url"      : "/kyles-wrestling/videos/1-year-anniversary-episode-with-Chuck-mambo/",
     "category" : "kyles-wrestling, videos",
@@ -101,6 +114,19 @@
     
     "author"   : "It’s Our House Podcast",
     "author-url": "authors/its-our-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Samoan Joe returns to NXT as an authority figure, ACH retires unexpected, plus wrestling news and rumors on WWE, ROH, Impact and NJPW",
+    "url"      : "/chokeslam-wrestling-report/Samoan-Joe-returns-to-NXT-as-an-authority-figure-ACH-retires-unexpected-plus-wrestling-news-and-rumors-on-WWE-ROH-Impact-and-NJPW/",
+    "category" : "chokeslam-wrestling-report",
+    "date"     : "June 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chokeslam Wrestling Report",
+    "author-url": "authors/chokeslam-wrestling-report"
 
   } ,
   
@@ -140,6 +166,19 @@
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "This Week in History Episode #27  June 11 17",
+    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-27-June-11-17/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "June 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
