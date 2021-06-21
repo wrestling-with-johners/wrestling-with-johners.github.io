@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "Episode 46-Kid Romeo",
+    "url"      : "/whaddya-say-with-ddj/Episode-46Kid-Romeo/",
+    "category" : "whaddya-say-with-ddj",
+    "date"     : "June 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Whaddya Say? With DDJ",
+    "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags of Wrestling Podcast: Episode #158",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Podcast-Episode-158/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "June 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "WTLS Ep 21 - Lory",
     "url"      : "/videos/work-the-left-side-podcast/WTLS-Ep-21-Lory/",
     "category" : "videos, work-the-left-side-podcast",
