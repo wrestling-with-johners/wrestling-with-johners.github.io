@@ -28,32 +28,6 @@
   
   {
 
-    "title"    : "Scumbags of Wrestling Podcast: Episode #158",
-    "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Podcast-Episode-158/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "June 21, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
-
-  } ,
-  
-  {
-
-    "title"    : "Scumbags Prediction League: Hell in a Cell Preview",
-    "url"      : "/scumbags-of-wrestling/videos/Scumbags-Prediction-League-Hell-in-a-Cell-Preview/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "June 21, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
-
-  } ,
-  
-  {
-
     "title"    : "SWN Podcast | The Wrestle Ropes Reunion [Explicit]",
     "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-The-Wrestle-Ropes-Reunion-Explicit/",
     "category" : "scottish-wrestling-network, videos",
@@ -101,6 +75,19 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "Japan to Honor Pro Wrestling With LEGACY Tournament - NJPW, AJPW, NOAH, DDTPRO &amp; more to participate",
+    "url"      : "/alliance-pro-wrestling-network/videos/Japan-to-Honor-Pro-Wrestling-With-LEGACY-Tournament-NJPW-AJPW-NOAH-DDTPRO-more-to-participate/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "June 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
@@ -166,6 +153,32 @@
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags of Wrestling Podcast: Episode #158",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Podcast-Episode-158/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "June 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags Prediction League: Hell in a Cell Preview",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-Prediction-League-Hell-in-a-Cell-Preview/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "June 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
