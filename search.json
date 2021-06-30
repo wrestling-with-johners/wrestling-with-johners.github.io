@@ -54,19 +54,6 @@
   
   {
 
-    "title"    : "EWOKK AND JB SHOW : YOUTH GONE WILD",
-    "url"      : "/ewokk-jb-show/videos/EWOKK-AND-JB-SHOW-YOUTH-GONE-WILD/",
-    "category" : "ewokk-jb-show, videos",
-    "date"     : "June 30, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "THE EWOKK & JB SHOW",
-    "author-url": "authors/ewokk-jb-show"
-
-  } ,
-  
-  {
-
     "title"    : "NEW NXT NORTH AMERICAN CHAMPION CROWNED TONIGHT!!!",
     "url"      : "/alliance-pro-wrestling-network/videos/NEW-NXT-NORTH-AMERICAN-CHAMPION-CROWNED-TONIGHT/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -179,6 +166,19 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "EWOKK AND JB SHOW : YOUTH GONE WILD",
+    "url"      : "/ewokk-jb-show/videos/EWOKK-AND-JB-SHOW-YOUTH-GONE-WILD/",
+    "category" : "ewokk-jb-show, videos",
+    "date"     : "June 29, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "THE EWOKK & JB SHOW",
+    "author-url": "authors/ewokk-jb-show"
 
   } ,
   
