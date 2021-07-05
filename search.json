@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "NXT Kyle O Reilly ( Great American Bash )",
+    "url"      : "/da-call-up/videos/NXT-Kyle-O-Reilly-Great-American-Bash/",
+    "category" : "da-call-up, videos",
+    "date"     : "July 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "DA CALL UP",
+    "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
+    "title"    : "NXT KYLE O REILLY ( Great American Bash ) ",
+    "url"      : "/da-call-up/NXT-KYLE-O-REILLY-Great-American-Bash/",
+    "category" : "da-call-up",
+    "date"     : "July 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "DA CALL UP",
+    "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
     "title"    : "WTLS Ep 22 - Steiners Spotlight",
     "url"      : "/videos/work-the-left-side-podcast/WTLS-Ep-22-Steiners-Spotlight/",
     "category" : "videos, work-the-left-side-podcast",
@@ -634,19 +660,6 @@
     
     "author"   : "THE EWOKK & JB SHOW",
     "author-url": "authors/ewokk-jb-show"
-
-  } ,
-  
-  {
-
-    "title"    : "NXT Kyle O Reilly ( Great American Bash )",
-    "url"      : "/da-call-up/videos/NXT-Kyle-O-Reilly-Great-American-Bash/",
-    "category" : "da-call-up, videos",
-    "date"     : "June 29, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "DA CALL UP",
-    "author-url": "authors/da-call-up"
 
   } ,
   
