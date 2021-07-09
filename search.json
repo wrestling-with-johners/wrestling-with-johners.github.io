@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Heath Slater live interview",
+    "url"      : "/such-good-shoot/videos/Heath-Slater-live-interview/",
+    "category" : "such-good-shoot, videos",
+    "date"     : "July 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "Scumbags of Wrestling Episode #158",
     "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Episode-158/",
     "category" : "scumbags-of-wrestling, videos",
@@ -23,6 +36,32 @@
     
     "author"   : "Scumbags of Wrestling Podcast",
     "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with &quot;The Foundation of the Future&quot; Zach Dynamite",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-The-Foundation-of-the-Future-Zach-Dynamite/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "July 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with &quot;The Foundation of the Future&quot; Zach Dynamite",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-The-Foundation-of-the-Future-Zach-Dynamite/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "July 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
 
   } ,
   
