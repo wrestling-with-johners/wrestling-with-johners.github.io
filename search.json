@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "Interview with Heath Slater!",
+    "url"      : "/interviews/such-good-shoot/Interview-with-Heath-Slater/",
+    "category" : "interviews, such-good-shoot",
+    "date"     : "July 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
+    "title"    : "5 Questions Featuring Kris Chambers",
+    "url"      : "/straight-talk-wrestling/videos/5-Questions-Featuring-Kris-Chambers/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "July 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Edge destroys the Usos | WWE Smackdown Highlights  | Bayley Is Injured &amp; Out for 9 months",
     "url"      : "/rope-break/videos/Edge-destroys-the-Usos-WWE-Smackdown-Highlights-Bayley-Is-Injured-Out-for-9-months/",
     "category" : "rope-break, videos",
@@ -49,19 +75,6 @@
     
     "author"   : "Such Good Shoot",
     "author-url": "authors/such-good-shoot"
-
-  } ,
-  
-  {
-
-    "title"    : "5 Questions Featuring Kris Chambers",
-    "url"      : "/straight-talk-wrestling/videos/5-Questions-Featuring-Kris-Chambers/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "July 09, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
