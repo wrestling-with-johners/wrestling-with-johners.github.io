@@ -2,19 +2,6 @@
   
   {
 
-    "title"    : "Whaddya Say? With DDJ Episode 49",
-    "url"      : "/videos/whaddya-say-with-ddj/Whaddya-Say-With-DDJ-Episode-49/",
-    "category" : "videos, whaddya-say-with-ddj",
-    "date"     : "July 12, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Whaddya Say? With DDJ",
-    "author-url": "authors/whaddya-say-with-ddj"
-
-  } ,
-  
-  {
-
     "title"    : "Episode 49-Vic Capri",
     "url"      : "/whaddya-say-with-ddj/Episode-49Vic-Capri/",
     "category" : "whaddya-say-with-ddj",
@@ -56,6 +43,19 @@
 
     "title"    : "SWN Podcast Trailer",
     "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-Trailer/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "July 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with  &quot;The Staunch Superstar&quot; Jason Reed",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-The-Staunch-Superstar-Jason-Reed/",
     "category" : "scottish-wrestling-network, videos",
     "date"     : "July 12, 2021",
     "excerpt"  : " ",
@@ -205,6 +205,19 @@
     
     "author"   : "Nik Towers",
     "author-url": "authors/nik-towers"
+
+  } ,
+  
+  {
+
+    "title"    : "Whaddya Say? With DDJ Episode 49",
+    "url"      : "/videos/whaddya-say-with-ddj/Whaddya-Say-With-DDJ-Episode-49/",
+    "category" : "videos, whaddya-say-with-ddj",
+    "date"     : "July 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Whaddya Say? With DDJ",
+    "author-url": "authors/whaddya-say-with-ddj"
 
   } ,
   
