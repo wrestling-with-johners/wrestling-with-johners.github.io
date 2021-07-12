@@ -41,6 +41,32 @@
   
   {
 
+    "title"    : "SWN Podcast Trailer",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-Trailer/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "July 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast Trailer",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-Trailer/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "July 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "Italia vs Inglaterra 1-1 PK (3-2) | UEFA Euro 2020 Final | Italia Campeon de Europa",
     "url"      : "/rope-break/videos/Italia-vs-Inglaterra-11-PK-32-UEFA-Euro-2020-Final-Italia-Campeon-de-Europa/",
     "category" : "rope-break, videos",
