@@ -28,6 +28,32 @@
   
   {
 
+    "title"    : "VIDCAST 61! FEAT SLEDGE",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-61-FEAT-SLEDGE/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "July 14, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 206! My conversation with Sledge",
+    "url"      : "/straight-talk-wrestling/Episode-206-My-conversation-with-Sledge/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "July 14, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Liga de Quito 0 Gremio 1 | Copa Sudamericana 2021 | Resumen y Analisis",
     "url"      : "/rope-break/videos/Liga-de-Quito-0-Gremio-1-Copa-Sudamericana-2021-Resumen-y-Analisis/",
     "category" : "rope-break, videos",
@@ -478,19 +504,6 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 61! FEAT SLEDGE",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-61-FEAT-SLEDGE/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "July 11, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
