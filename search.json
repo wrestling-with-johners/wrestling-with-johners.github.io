@@ -2,19 +2,6 @@
   
   {
 
-    "title"    : "VIDCAST 62 FEATURING JADE CHUNG",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-62-FEATURING-JADE-CHUNG/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "July 21, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
-
-  } ,
-  
-  {
-
     "title"    : "Liga de Quito 2  Gremio 1 | Copa Sudamericana 2021 Octavos de Final | Goles Y Analisis",
     "url"      : "/rope-break/videos/Liga-de-Quito-2-Gremio-1-Copa-Sudamericana-2021-Octavos-de-Final-Goles-Y-Analisis/",
     "category" : "rope-break, videos",
@@ -36,19 +23,6 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
-
-  } ,
-  
-  {
-
-    "title"    : "D-Von Dudley on Jeff Hardy and The Dudley Boyz, Edge and Christian, and Hardy Boyz Ladder Matches",
-    "url"      : "/rewind-recap-relive/videos/DVon-Dudley-on-Jeff-Hardy-and-The-Dudley-Boyz-Edge-and-Christian-and-Hardy-Boyz-Ladder-Matches/",
-    "category" : "rewind-recap-relive, videos",
-    "date"     : "July 21, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Rewind Recap Relive",
-    "author-url": "authors/rewind-recap-relive"
 
   } ,
   
@@ -93,6 +67,19 @@
   
   {
 
+    "title"    : "VIDCAST 62 FEATURING JADE CHUNG",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-62-FEATURING-JADE-CHUNG/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "July 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Wrestle Ropes Podcast | Target Wrestling July Weekender Preview with Shady Nattrass",
     "url"      : "/scottish-wrestling-network/videos/Wrestle-Ropes-Podcast-Target-Wrestling-July-Weekender-Preview-with-Shady-Nattrass/",
     "category" : "scottish-wrestling-network, videos",
@@ -127,6 +114,19 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "D-Von Dudley on Jeff Hardy and The Dudley Boyz, Edge and Christian, and Hardy Boyz Ladder Matches",
+    "url"      : "/rewind-recap-relive/videos/DVon-Dudley-on-Jeff-Hardy-and-The-Dudley-Boyz-Edge-and-Christian-and-Hardy-Boyz-Ladder-Matches/",
+    "category" : "rewind-recap-relive, videos",
+    "date"     : "July 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Rewind Recap Relive",
+    "author-url": "authors/rewind-recap-relive"
 
   } ,
   
