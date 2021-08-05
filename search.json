@@ -54,6 +54,32 @@
   
   {
 
+    "title"    : "Johnny Moran 2.0",
+    "url"      : "/bob-culture/videos/Johnny-Moran-20/",
+    "category" : "bob-culture, videos",
+    "date"     : "August 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "Johnny Moran 2.0",
+    "url"      : "/bob-culture/Johnny-Moran-20/",
+    "category" : "bob-culture",
+    "date"     : "August 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "Dixie Carter makes an appearance on ROH TV, MLW to debut new show, Tomohiro Ishii vs Moose",
     "url"      : "/alliance-pro-wrestling-network/videos/Dixie-Carter-makes-an-appearance-on-ROH-TV-MLW-to-debut-new-show-Tomohiro-Ishii-vs-Moose/",
     "category" : "alliance-pro-wrestling-network, videos",
