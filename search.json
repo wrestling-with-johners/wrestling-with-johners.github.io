@@ -28,19 +28,6 @@
   
   {
 
-    "title"    : "Scumbags of Wrestling Podcast Episode #161",
-    "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Podcast-Episode-161/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "August 08, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
-
-  } ,
-  
-  {
-
     "title"    : "Pro Wrestling Tonight: Episode 30: Whaddya Say With DDJ",
     "url"      : "/pro-wrestling-tonight/videos/Pro-Wrestling-Tonight-Episode-30-Whaddya-Say-With-DDJ/",
     "category" : "pro-wrestling-tonight, videos",
@@ -101,6 +88,19 @@
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags of Wrestling Podcast Episode #161",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-of-Wrestling-Podcast-Episode-161/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "August 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
