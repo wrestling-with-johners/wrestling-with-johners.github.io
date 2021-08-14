@@ -132,6 +132,19 @@
   
   {
 
+    "title"    : "Episode 50 Return of the Mac",
+    "url"      : "/chaos-theory/Episode-50-Return-of-the-Mac/",
+    "category" : "chaos-theory",
+    "date"     : "August 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Pete Rosado talks We Are Wrestling",
     "url"      : "/bob-culture/videos/Pete-Rosado-talks-We-Are-Wrestling/",
     "category" : "bob-culture, videos",
@@ -288,6 +301,19 @@
   
   {
 
+    "title"    : "LISA MARIE VARON TRIBUTE",
+    "url"      : "/chaos-theory/videos/LISA-MARIE-VARON-TRIBUTE/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "FORMER IMPACT WRESTLING STAR KIERA HOGAN MAKES HER AEW DEBUT!",
     "url"      : "/alliance-pro-wrestling-network/videos/FORMER-IMPACT-WRESTLING-STAR-KIERA-HOGAN-MAKES-HER-AEW-DEBUT/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -296,6 +322,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 30",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-30/",
+    "category" : "tea-and-tights",
+    "date"     : "August 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -673,6 +712,19 @@
     
     "author"   : "Nik Towers",
     "author-url": "authors/nik-towers"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea And Tights - Special: Adam Maxted Interview",
+    "url"      : "/interviews/tea-and-tights/Tea-And-Tights-Special-Adam-Maxted-Interview/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "August 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -1068,6 +1120,19 @@
   
   {
 
+    "title"    : "Episode 49 PAC ORTEGA",
+    "url"      : "/chaos-theory/Episode-49-PAC-ORTEGA/",
+    "category" : "chaos-theory",
+    "date"     : "August 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Johnny Moran 2.0",
     "url"      : "/bob-culture/videos/Johnny-Moran-20/",
     "category" : "bob-culture, videos",
@@ -1115,6 +1180,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 29",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-29/",
+    "category" : "tea-and-tights",
+    "date"     : "August 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -1323,6 +1401,32 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "PAC ORTEGA",
+    "url"      : "/chaos-theory/videos/PAC-ORTEGA/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "GYPSY MAC",
+    "url"      : "/chaos-theory/videos/GYPSY-MAC/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -2069,6 +2173,19 @@
   
   {
 
+    "title"    : "Episode 48 The Cult of Crowley",
+    "url"      : "/chaos-theory/Episode-48-The-Cult-of-Crowley/",
+    "category" : "chaos-theory",
+    "date"     : "July 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Dominican Destroyer Vargas",
     "url"      : "/bob-culture/videos/The-Dominican-Destroyer-Vargas/",
     "category" : "bob-culture, videos",
@@ -2168,6 +2285,32 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "DNC DIGITAL",
+    "url"      : "/chaos-theory/videos/DNC-DIGITAL/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 47 D from DNC Digital",
+    "url"      : "/chaos-theory/Episode-47-D-from-DNC-Digital/",
+    "category" : "chaos-theory",
+    "date"     : "July 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -2324,6 +2467,19 @@
     
     "author"   : "Nik Towers",
     "author-url": "authors/nik-towers"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 28",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-28/",
+    "category" : "tea-and-tights",
+    "date"     : "July 25, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -2810,6 +2966,19 @@
   
   {
 
+    "title"    : "Episode 46 ELIJAH EXOTIC",
+    "url"      : "/chaos-theory/Episode-46-ELIJAH-EXOTIC/",
+    "category" : "chaos-theory",
+    "date"     : "July 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Rocker/ Wrestler Drew Haffer",
     "url"      : "/bob-culture/videos/Rocker-Wrestler-Drew-Haffer/",
     "category" : "bob-culture, videos",
@@ -2909,6 +3078,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 27",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-27/",
+    "category" : "tea-and-tights",
+    "date"     : "July 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -3564,6 +3746,32 @@
   
   {
 
+    "title"    : "Episode 45 Who is Drew Who",
+    "url"      : "/chaos-theory/videos/Episode-45-Who-is-Drew-Who/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 45 Who is Drew Who",
+    "url"      : "/chaos-theory/Episode-45-Who-is-Drew-Who/",
+    "category" : "chaos-theory",
+    "date"     : "July 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Alliance Pro Wrestling Network presents an interview with the Living Legend Larry Zbyszko",
     "url"      : "/alliance-pro-wrestling-network/videos/The-Alliance-Pro-Wrestling-Network-presents-an-interview-with-the-Living-Legend-Larry-Zbyszko/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -3767,6 +3975,32 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 44 Nick Aldis",
+    "url"      : "/chaos-theory/videos/EPISODE-44-Nick-Aldis/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 44 Nick Aldis",
+    "url"      : "/chaos-theory/EPISODE-44-Nick-Aldis/",
+    "category" : "chaos-theory",
+    "date"     : "July 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -4006,6 +4240,32 @@
   
   {
 
+    "title"    : "Episode 43 Melanie G from mission pro",
+    "url"      : "/chaos-theory/videos/Episode-43-Melanie-G-from-mission-pro/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 43 Melanie G from mission pro",
+    "url"      : "/chaos-theory/Episode-43-Melanie-G-from-mission-pro/",
+    "category" : "chaos-theory",
+    "date"     : "July 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Scott D&#39;Amore wants AEW women crossover in Impact, Buddy Murphy hints at going to Impact Wrestling.",
     "url"      : "/alliance-pro-wrestling-network/videos/Scott-DAmore-wants-AEW-women-crossover-in-Impact-Buddy-Murphy-hints-at-going-to-Impact-Wrestling/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -4066,6 +4326,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit wres Round Up 26",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-wres-Round-Up-26/",
+    "category" : "tea-and-tights",
+    "date"     : "July 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -4955,6 +5228,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 25",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-25/",
+    "category" : "tea-and-tights",
+    "date"     : "July 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast | with &quot;The Lowland Superstar&quot; Glen Dunbar",
     "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-The-Lowland-Superstar-Glen-Dunbar/",
     "category" : "scottish-wrestling-network, videos",
@@ -5067,6 +5353,32 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 42 Casey Black Rose Martinez",
+    "url"      : "/chaos-theory/videos/Episode-42-Casey-Black-Rose-Martinez/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 42 Casey Black Rose Martinez",
+    "url"      : "/chaos-theory/Episode-42-Casey-Black-Rose-Martinez/",
+    "category" : "chaos-theory",
+    "date"     : "July 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -5579,6 +5891,58 @@
   
   {
 
+    "title"    : "THE CULT OF CROWLEY",
+    "url"      : "/chaos-theory/videos/THE-CULT-OF-CROWLEY/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 29, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Melanie G from Mission Pro",
+    "url"      : "/chaos-theory/videos/Melanie-G-from-Mission-Pro/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 29, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Elijah Exotic",
+    "url"      : "/chaos-theory/videos/Elijah-Exotic/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 29, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Drew Who?",
+    "url"      : "/chaos-theory/videos/Drew-Who/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 29, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Whaddya Say? With DDJ Episode 47",
     "url"      : "/videos/whaddya-say-with-ddj/Whaddya-Say-With-DDJ-Episode-47/",
     "category" : "videos, whaddya-say-with-ddj",
@@ -5613,6 +5977,32 @@
     
     "author"   : "Toilet-Side Wrestling Talk",
     "author-url": "authors/toilet-side-wrestling-talk"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Special - Frankie T (IWE)",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-Frankie-T-IWE/",
+    "category" : "tea-and-tights",
+    "date"     : "June 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Epiosde 24",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Epiosde-24/",
+    "category" : "tea-and-tights",
+    "date"     : "June 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -5743,6 +6133,32 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 41 Branden Vice",
+    "url"      : "/chaos-theory/videos/Episode-41-Branden-Vice/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 41 Branden Vice",
+    "url"      : "/chaos-theory/Episode-41-Branden-Vice/",
+    "category" : "chaos-theory",
+    "date"     : "June 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -6034,6 +6450,19 @@
   
   {
 
+    "title"    : "Tea and Tights Special: Rebecca Reznor",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-Rebecca-Reznor/",
+    "category" : "tea-and-tights",
+    "date"     : "June 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Isaac sgs johners promo",
     "url"      : "/such-good-shoot/videos/Isaac-sgs-johners-promo/",
     "category" : "such-good-shoot, videos",
@@ -6302,6 +6731,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 23",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-23/",
+    "category" : "tea-and-tights",
+    "date"     : "June 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -6627,6 +7069,32 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 40 Music Special",
+    "url"      : "/chaos-theory/videos/EP-40-Music-Special/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 40 Music Special",
+    "url"      : "/chaos-theory/EP-40-Music-Special/",
+    "category" : "chaos-theory",
+    "date"     : "June 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -7329,6 +7797,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 22",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-22/",
+    "category" : "tea-and-tights",
+    "date"     : "June 14, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -8504,6 +8985,19 @@
   
   {
 
+    "title"    : "Episode 39 Madi Wrenkowski Reality Check",
+    "url"      : "/chaos-theory/Episode-39-Madi-Wrenkowski-Reality-Check/",
+    "category" : "chaos-theory",
+    "date"     : "June 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "BREAKING NEWS - LIO RUSH ANNOUNCES RETIREMENT FROM PRO WRESTLING",
     "url"      : "/alliance-pro-wrestling-network/videos/BREAKING-NEWS-LIO-RUSH-ANNOUNCES-RETIREMENT-FROM-PRO-WRESTLING/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -8608,6 +9102,19 @@
   
   {
 
+    "title"    : "madi wrenkowski",
+    "url"      : "/chaos-theory/videos/madi-wrenkowski/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Hot Dog Starkes",
     "url"      : "/bob-culture/videos/Hot-Dog-Starkes/",
     "category" : "bob-culture, videos",
@@ -8681,6 +9188,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 21",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-21/",
+    "category" : "tea-and-tights",
+    "date"     : "June 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -9591,6 +10111,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 20",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-20/",
+    "category" : "tea-and-tights",
+    "date"     : "May 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -11026,6 +11559,32 @@
   
   {
 
+    "title"    : "BRITTANI NIKOLE INTERVIEW",
+    "url"      : "/chaos-theory/videos/BRITTANI-NIKOLE-INTERVIEW/",
+    "category" : "chaos-theory, videos",
+    "date"     : "May 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "BRITTANI NIKOLE INTERVIEW",
+    "url"      : "/chaos-theory/interviews/BRITTANI-NIKOLE-INTERVIEW/",
+    "category" : "chaos-theory, interviews",
+    "date"     : "May 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "J BouJii Interview",
     "url"      : "/bob-culture/interviews/J-BouJii-Interview/",
     "category" : "bob-culture, interviews",
@@ -11320,6 +11879,19 @@
     
     "author"   : "Toilet-Side Wrestling Talk",
     "author-url": "authors/toilet-side-wrestling-talk"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 19",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-19/",
+    "category" : "tea-and-tights",
+    "date"     : "May 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -12508,6 +13080,32 @@
   
   {
 
+    "title"    : "Episode 37 Gypsy Mac Interview",
+    "url"      : "/chaos-theory/videos/Episode-37-Gypsy-Mac-Interview/",
+    "category" : "chaos-theory, videos",
+    "date"     : "May 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 37 Gypsy Mac Interview",
+    "url"      : "/chaos-theory/interviews/Episode-37-Gypsy-Mac-Interview/",
+    "category" : "chaos-theory, interviews",
+    "date"     : "May 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Wrestlemania Backlash Predictions Panel - Kimmy Takeover Edition",
     "url"      : "/bob-culture/videos/Wrestlemania-Backlash-Predictions-Panel-Kimmy-Takeover-Edition/",
     "category" : "bob-culture, videos",
@@ -13080,6 +13678,19 @@
   
   {
 
+    "title"    : "GYPSY MAC INTERVIEW",
+    "url"      : "/chaos-theory/videos/GYPSY-MAC-INTERVIEW/",
+    "category" : "chaos-theory, videos",
+    "date"     : "May 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Bear &amp; Chocky T&#39;s wrestling recap: Episode 3 - &quot;Blood &amp; Guts Review&quot;",
     "url"      : "/bear-chocky-wrestling-recap/videos/The-Bear-Chocky-Ts-wrestling-recap-Episode-3-Blood-Guts-Review/",
     "category" : "bear-chocky-wrestling-recap, videos",
@@ -13179,6 +13790,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - The Brit Wres Round Up: Episode 18",
+    "url"      : "/tea-and-tights/Tea-and-Tights-The-Brit-Wres-Round-Up-Episode-18/",
+    "category" : "tea-and-tights",
+    "date"     : "May 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -13821,6 +14445,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Special: The Brothers Awe",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-The-Brothers-Awe/",
+    "category" : "tea-and-tights",
+    "date"     : "May 14, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "PPV Rearview April 1997 - IYH Revenge of the Taker",
     "url"      : "/such-good-shoot/PPV-Rearview-April-1997-IYH-Revenge-of-the-Taker/",
     "category" : "such-good-shoot",
@@ -14432,6 +15069,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Special: Cpt. Wristlock Matt Fox",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-Cpt-Wristlock-Matt-Fox/",
+    "category" : "tea-and-tights",
+    "date"     : "May 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast | with &quot;100% Pure Scottish Beef&quot; Bobby Roberts",
     "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-100-Pure-Scottish-Beef-Bobby-Roberts/",
     "category" : "scottish-wrestling-network, videos",
@@ -14557,6 +15207,19 @@
     
     "author"   : "The Bear & Chocky T’s Wrestling Recap Podcast",
     "author-url": "authors/bear-chocky-wrestling-recap"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 17",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-17/",
+    "category" : "tea-and-tights",
+    "date"     : "May 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -15342,6 +16005,32 @@
   
   {
 
+    "title"    : "DULCE TORMENTA",
+    "url"      : "/chaos-theory/videos/DULCE-TORMENTA/",
+    "category" : "chaos-theory, videos",
+    "date"     : "May 06, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 36 Sweet Storm AKA Dulce Tormenta",
+    "url"      : "/chaos-theory/EPISODE-36-Sweet-Storm-AKA-Dulce-Tormenta/",
+    "category" : "chaos-theory",
+    "date"     : "May 06, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Salina De La Renta gone from MLW and Will Moose be a free agent in June?",
     "url"      : "/alliance-pro-wrestling-network/videos/Salina-De-La-Renta-gone-from-MLW-and-Will-Moose-be-a-free-agent-in-June/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -15818,6 +16507,19 @@
     
     "author"   : "Nik Towers",
     "author-url": "authors/nik-towers"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 16",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-16/",
+    "category" : "tea-and-tights",
+    "date"     : "May 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -16676,6 +17378,19 @@
     
     "author"   : "Turnbuckle Arms Podcast",
     "author-url": "authors/turnbuckle-arms-podcast"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 15",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-15/",
+    "category" : "tea-and-tights",
+    "date"     : "April 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -17565,6 +18280,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 14",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-14/",
+    "category" : "tea-and-tights",
+    "date"     : "April 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "MLW Rewind episode 14",
     "url"      : "/straight-talk-wrestling/MLW-Rewind-episode-14/",
     "category" : "straight-talk-wrestling",
@@ -17968,6 +18696,19 @@
   
   {
 
+    "title"    : "Episode 35 Black Diamond Jack Price",
+    "url"      : "/chaos-theory/Episode-35-Black-Diamond-Jack-Price/",
+    "category" : "chaos-theory",
+    "date"     : "April 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Anthony Gangone Interview",
     "url"      : "/bob-culture/interviews/Anthony-Gangone-Interview/",
     "category" : "bob-culture, interviews",
@@ -18202,6 +18943,19 @@
   
   {
 
+    "title"    : "Tea and Tights Special - Interview with Jason King Co Owner of Reach Wrestling",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Interview-with-Jason-King-Co-Owner-of-Reach-Wrestling/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "April 13, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Iseah Bronson interview Part 3",
     "url"      : "/interviews/straight-talk-wrestling/Iseah-Bronson-interview-Part-3/",
     "category" : "interviews, straight-talk-wrestling",
@@ -18327,6 +19081,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 13",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-13/",
+    "category" : "tea-and-tights",
+    "date"     : "April 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -18956,6 +19723,19 @@
   
   {
 
+    "title"    : "Episode 34 Jazmin Allure",
+    "url"      : "/chaos-theory/Episode-34-Jazmin-Allure/",
+    "category" : "chaos-theory",
+    "date"     : "April 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Wrestlemania 37 Predictions",
     "url"      : "/bob-culture/Wrestlemania-37-Predictions/",
     "category" : "bob-culture",
@@ -18990,6 +19770,32 @@
     
     "author"   : "The Bear & Chocky T’s Wrestling Recap Podcast",
     "author-url": "authors/bear-chocky-wrestling-recap"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Super Special - Live Reaction to NXT Stand and Deliver Night 1",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Super-Special-Live-Reaction-to-NXT-Stand-and-Deliver-Night-1/",
+    "category" : "tea-and-tights",
+    "date"     : "April 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Special - Interview with Steven Fludder founder of PCW",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Interview-with-Steven-Fludder-founder-of-PCW/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "April 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -19146,6 +19952,19 @@
     
     "author"   : "The Bob Culture Podcast",
     "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "Coming soon.",
+    "url"      : "/tea-and-tights/videos/Coming-soon/",
+    "category" : "tea-and-tights, videos",
+    "date"     : "April 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -19593,6 +20412,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round 12",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-12/",
+    "category" : "tea-and-tights",
+    "date"     : "April 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "PROMO 101 With Jeremy Prophet and Kyle Morin from JOFO in the RING Podcast",
     "url"      : "/straight-talk-wrestling/PROMO-101-With-Jeremy-Prophet-and-Kyle-Morin-from-JOFO-in-the-RING-Podcast/",
     "category" : "straight-talk-wrestling",
@@ -19822,6 +20654,19 @@
     
     "author"   : "Whaddya Say? With DDJ",
     "author-url": "authors/whaddya-say-with-ddj"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT Review: Episode 13",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-Review-Episode-13/",
+    "category" : "tea-and-tights",
+    "date"     : "April 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -20464,6 +21309,19 @@
   
   {
 
+    "title"    : "Tea and Tights Special - Joel Redman Interview",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Joel-Redman-Interview/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "March 30, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "King Corbin Aligns with Lashley AGAIN | WWE RAW Results 3/29/21",
     "url"      : "/rope-break/King-Corbin-Aligns-with-Lashley-AGAIN-WWE-RAW-Results-32921/",
     "category" : "rope-break",
@@ -20867,6 +21725,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 11",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-11/",
+    "category" : "tea-and-tights",
+    "date"     : "March 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Vidcast 45! Featuring Vic  Endurance",
     "url"      : "/straight-talk-wrestling/Vidcast-45-Featuring-Vic-Endurance/",
     "category" : "straight-talk-wrestling",
@@ -20997,6 +21868,19 @@
   
   {
 
+    "title"    : "Episode 33 Talkamaniacs Running wild",
+    "url"      : "/chaos-theory/Episode-33-Talkamaniacs-Running-wild/",
+    "category" : "chaos-theory",
+    "date"     : "March 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Alliance Pro Wrestling Network Sunday Special Interview Presents Nick Sullivan",
     "url"      : "/alliance-pro-wrestling-network/interviews/The-Alliance-Pro-Wrestling-Network-Sunday-Special-Interview-Presents-Nick-Sullivan/",
     "category" : "alliance-pro-wrestling-network, interviews",
@@ -21018,6 +21902,32 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Special - Shady Nattrass",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-Shady-Nattrass/",
+    "category" : "tea-and-tights",
+    "date"     : "March 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT Review: Episode 12",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-Review-Episode-12/",
+    "category" : "tea-and-tights",
+    "date"     : "March 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -21517,6 +22427,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 10",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-10/",
+    "category" : "tea-and-tights",
+    "date"     : "March 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "WWE Fastlane 2021 Resumen Completamente en Español",
     "url"      : "/rope-break/WWE-Fastlane-2021-Resumen-Completamente-en-Espa%C3%B1ol/",
     "category" : "rope-break",
@@ -21720,6 +22643,19 @@
     
     "author"   : "Turning Heel Podcast",
     "author-url": "authors/turning-heel"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT UK Review: Episode 11 ",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-11/",
+    "category" : "tea-and-tights",
+    "date"     : "March 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -22206,6 +23142,19 @@
   
   {
 
+    "title"    : "episode 32 Faction wars",
+    "url"      : "/chaos-theory/episode-32-Faction-wars/",
+    "category" : "chaos-theory",
+    "date"     : "March 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Andrade confirms he wants out of the WWE and Kylie Rae is returning to Pro Wrestling!",
     "url"      : "/alliance-pro-wrestling-network/Andrade-confirms-he-wants-out-of-the-WWE-and-Kylie-Rae-is-returning-to-Pro-Wrestling/",
     "category" : "alliance-pro-wrestling-network",
@@ -22214,6 +23163,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Special: Vainglourius Athority &quot;Notorius Angel&quot; Amber Jo and &quot;The Devious One&quot; Curtis Elliot ",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-Vainglourius-Athority-Notorius-Angel-Amber-Jo-and-The-Devious-One-Curtis-Elliot/",
+    "category" : "tea-and-tights",
+    "date"     : "March 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -22331,6 +23293,32 @@
     
     "author"   : "It’s Time To Fight!! Hosted by Matthew Terry",
     "author-url": "authors/time-to-fight"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT UK Review: Episode 10",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-10/",
+    "category" : "tea-and-tights",
+    "date"     : "March 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 9",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-9/",
+    "category" : "tea-and-tights",
+    "date"     : "March 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -23025,6 +24013,19 @@
   
   {
 
+    "title"    : "Tea and Tights Special: Interview with Adam &quot;Muslce&quot; Mansfield",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Interview-with-Adam-Muslce-Mansfield/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "March 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Kenny Omega Survives the Death Match | AEW Revolution 2021 Highlights| Christian Cage is ALL ELITE",
     "url"      : "/rope-break/Kenny-Omega-Survives-the-Death-Match-AEW-Revolution-2021-Highlights-Christian-Cage-is-ALL-ELITE/",
     "category" : "rope-break",
@@ -23137,6 +24138,32 @@
     
     "author"   : "John Scott",
     "author-url": "authors/john"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT UK Review: Episode 9",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-9/",
+    "category" : "tea-and-tights",
+    "date"     : "March 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 8",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-8/",
+    "category" : "tea-and-tights",
+    "date"     : "March 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -23306,6 +24333,58 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 31 The Struggle (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-31-The-Struggle-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "March 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 31 The Struggle (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-31-The-Struggle-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "March 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 31 The Struggle (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-31-The-Struggle-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "March 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 31 The Struggle",
+    "url"      : "/chaos-theory/Episode-31-The-Struggle/",
+    "category" : "chaos-theory",
+    "date"     : "March 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -24013,6 +25092,32 @@
   
   {
 
+    "title"    : "Tea and Tights - NXT UK Review: Episode 8 ",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-8/",
+    "category" : "tea-and-tights",
+    "date"     : "March 01, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit wres Round Up: Episode 7",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-wres-Round-Up-Episode-7/",
+    "category" : "tea-and-tights",
+    "date"     : "March 01, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "2021 Ontario Indy Wrestling March Madness Tournament Preview",
     "url"      : "/scumbags-of-wrestling/2021-Ontario-Indy-Wrestling-March-Madness-Tournament-Preview/",
     "category" : "scumbags-of-wrestling",
@@ -24611,6 +25716,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 6",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-6/",
+    "category" : "tea-and-tights",
+    "date"     : "February 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "This Week in History Episode #10:  February 19 to February 25",
     "url"      : "/scumbags-of-wrestling/This-Week-in-History-Episode-10-February-19-to-February-25/",
     "category" : "scumbags-of-wrestling",
@@ -24866,6 +25984,58 @@
     
     "author"   : "DA CALL UP",
     "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 30 Military minded (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-30-Military-minded-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "February 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 30 Military minded (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-30-Military-minded-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "February 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 30 Military minded (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-30-Military-minded-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "February 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 30 Military minded",
+    "url"      : "/chaos-theory/Episode-30-Military-minded/",
+    "category" : "chaos-theory",
+    "date"     : "February 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -25365,6 +26535,19 @@
   
   {
 
+    "title"    : "Tea and Tights - NXT UK Review: Episode 7",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-7/",
+    "category" : "tea-and-tights",
+    "date"     : "February 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Vidcast 39! Featuring Jeremy Prophet",
     "url"      : "/straight-talk-wrestling/Vidcast-39-Featuring-Jeremy-Prophet/",
     "category" : "straight-talk-wrestling",
@@ -25612,6 +26795,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 5",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-5/",
+    "category" : "tea-and-tights",
+    "date"     : "February 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Vidcast 38! Featuring Ashley Slashey",
     "url"      : "/straight-talk-wrestling/Vidcast-38-Featuring-Ashley-Slashey/",
     "category" : "straight-talk-wrestling",
@@ -25685,6 +26881,19 @@
     
     "author"   : "DOA's Bookerman Podcast",
     "author-url": "authors/doa-bookerman-podcast"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 29 Vengeance is mine",
+    "url"      : "/chaos-theory/Episode-29-Vengeance-is-mine/",
+    "category" : "chaos-theory",
+    "date"     : "February 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -26054,6 +27263,19 @@
   
   {
 
+    "title"    : "Tea and Tights - NXT UK Review Show: Episode 6",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Show-Episode-6/",
+    "category" : "tea-and-tights",
+    "date"     : "February 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Hitting The Headlines | with Skye James &amp; Steeky",
     "url"      : "/scottish-wrestling-network/Hitting-The-Headlines-with-Skye-James-Steeky/",
     "category" : "scottish-wrestling-network",
@@ -26327,6 +27549,19 @@
   
   {
 
+    "title"    : "Tea and Tights Special: Interview Alex &quot;Dow Jones&quot; Gilbert (UKPW)",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Interview-Alex-Dow-Jones-Gilbert-UKPW/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "February 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Vidcast 36 feat Dynamo aka Slash",
     "url"      : "/straight-talk-wrestling/Vidcast-36-feat-Dynamo-aka-Slash/",
     "category" : "straight-talk-wrestling",
@@ -26387,6 +27622,58 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 28 Wishes Granted (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-28-Wishes-Granted-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "February 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 28 Wishes Granted (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-28-Wishes-Granted-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "February 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 28 Wishes Granted (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-28-Wishes-Granted-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "February 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 28 Wishes Granted",
+    "url"      : "/chaos-theory/Episode-28-Wishes-Granted/",
+    "category" : "chaos-theory",
+    "date"     : "February 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -26504,6 +27791,19 @@
     
     "author"   : "Turning Heel Podcast",
     "author-url": "authors/turning-heel"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 4",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-4/",
+    "category" : "tea-and-tights",
+    "date"     : "February 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -26712,6 +28012,19 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT UK Review Show: Episode 5",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Show-Episode-5/",
+    "category" : "tea-and-tights",
+    "date"     : "February 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -27042,6 +28355,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 3",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-3/",
+    "category" : "tea-and-tights",
+    "date"     : "February 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Untitled Wrestling Podcast by SWN #9 | Callum Bruce",
     "url"      : "/scottish-wrestling-network/Untitled-Wrestling-Podcast-by-SWN-9-Callum-Bruce/",
     "category" : "scottish-wrestling-network",
@@ -27354,6 +28680,71 @@
   
   {
 
+    "title"    : "Episode 27 Cheating Death Stealing Life (re-release) (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-27-Cheating-Death-Stealing-Life-rerelease-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 27 Cheating Death Stealing Life (re-release) (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-27-Cheating-Death-Stealing-Life-rerelease-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 27 Cheating Death Stealing Life (re-release) (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-27-Cheating-Death-Stealing-Life-rerelease-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 27 Cheating Death Stealing Life (re-release) (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-27-Cheating-Death-Stealing-Life-rerelease-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 27 Cheating Death Stealing Life (re-release)",
+    "url"      : "/chaos-theory/Episode-27-Cheating-Death-Stealing-Life-rerelease/",
+    "category" : "chaos-theory",
+    "date"     : "January 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Alliance Pro Wrestling Network Sunday Special Interview Presents - Aiden Prince",
     "url"      : "/alliance-pro-wrestling-network/interviews/The-Alliance-Pro-Wrestling-Network-Sunday-Special-Interview-Presents-Aiden-Prince/",
     "category" : "alliance-pro-wrestling-network, interviews",
@@ -27583,6 +28974,32 @@
     
     "author"   : "Kurt Johansson",
     "author-url": "authors/kurt-johansson"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT UK Review: Episode 4",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-4/",
+    "category" : "tea-and-tights",
+    "date"     : "January 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Interview Special: Wrestle Cares",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Interview-Special-Wrestle-Cares/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "January 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -28095,6 +29512,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 2",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-2/",
+    "category" : "tea-and-tights",
+    "date"     : "January 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "MLW Rewind Episode 4",
     "url"      : "/straight-talk-wrestling/MLW-Rewind-Episode-4/",
     "category" : "straight-talk-wrestling",
@@ -28298,6 +29728,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - NXT UK Review: Episode 3",
+    "url"      : "/tea-and-tights/Tea-and-Tights-NXT-UK-Review-Episode-3/",
+    "category" : "tea-and-tights",
+    "date"     : "January 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -28615,6 +30058,71 @@
   
   {
 
+    "title"    : "Episode 26 Around the Chaos (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-26-Around-the-Chaos-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 26 Around the Chaos (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-26-Around-the-Chaos-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 26 Around the Chaos (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-26-Around-the-Chaos-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 26 Around the Chaos (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-26-Around-the-Chaos-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 26 Around the Chaos",
+    "url"      : "/chaos-theory/Episode-26-Around-the-Chaos/",
+    "category" : "chaos-theory",
+    "date"     : "January 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Division",
     "url"      : "/bob-culture/The-Division/",
     "category" : "bob-culture",
@@ -28662,6 +30170,19 @@
     
     "author"   : "Turnbuckle Arms Podcast",
     "author-url": "authors/turnbuckle-arms-podcast"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Presents The Brit Wres Round Up: Episode 1",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Presents-The-Brit-Wres-Round-Up-Episode-1/",
+    "category" : "tea-and-tights",
+    "date"     : "January 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -28844,6 +30365,19 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Present - The NXT UK Review Show: Episode 2",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Present-The-NXT-UK-Review-Show-Episode-2/",
+    "category" : "tea-and-tights",
+    "date"     : "January 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -29109,6 +30643,19 @@
   
   {
 
+    "title"    : "Tea and Tights Present the NXT UK Review Show: Episode 1",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Present-the-NXT-UK-Review-Show-Episode-1/",
+    "category" : "tea-and-tights",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Fantasy Warfare Tournament  Greatest Mid Card Champions WWF IC Championship",
     "url"      : "/scumbags-of-wrestling/Fantasy-Warfare-Tournament-Greatest-Mid-Card-Champions-WWF-IC-Championship/",
     "category" : "scumbags-of-wrestling",
@@ -29169,6 +30716,97 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos (part 6 of 6)",
+    "url"      : "/chaos-theory/videos/Episode25-The-Bishop-and-King-Chaos-part-6-of-6/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos (part 5 of 6)",
+    "url"      : "/chaos-theory/videos/Episode25-The-Bishop-and-King-Chaos-part-5-of-6/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos (part 4 of 6)",
+    "url"      : "/chaos-theory/videos/Episode25-The-Bishop-and-King-Chaos-part-4-of-6/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos (part 3 of 6)",
+    "url"      : "/chaos-theory/videos/Episode25-The-Bishop-and-King-Chaos-part-3-of-6/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos (part 2 of 6)",
+    "url"      : "/chaos-theory/videos/Episode25-The-Bishop-and-King-Chaos-part-2-of-6/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos (part 1 of 6)",
+    "url"      : "/chaos-theory/videos/Episode25-The-Bishop-and-King-Chaos-part-1-of-6/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode25 The Bishop and King Chaos",
+    "url"      : "/chaos-theory/Episode25-The-Bishop-and-King-Chaos/",
+    "category" : "chaos-theory",
+    "date"     : "January 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -29247,6 +30885,19 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Special: Interview with Gary Ward ",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Interview-with-Gary-Ward/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "January 09, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -29655,6 +31306,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Episode 15: Best of Brit Wres 2020",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-15-Best-of-Brit-Wres-2020/",
+    "category" : "tea-and-tights",
+    "date"     : "January 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast | with &quot;The Phoenix&quot; Colton Davis",
     "url"      : "/scottish-wrestling-network/SWN-Podcast-with-The-Phoenix-Colton-Davis/",
     "category" : "scottish-wrestling-network",
@@ -29702,6 +31366,58 @@
     
     "author"   : "Rewind Recap Relive",
     "author-url": "authors/rewind-recap-relive"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 24 Dream Matches (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-24-Dream-Matches-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 24 Dream Matches (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-24-Dream-Matches-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 24 Dream Matches (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-24-Dream-Matches-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "January 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 24 Dream Matches",
+    "url"      : "/chaos-theory/Episode-24-Dream-Matches/",
+    "category" : "chaos-theory",
+    "date"     : "January 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -30409,6 +32125,19 @@
   
   {
 
+    "title"    : "EPISODE 23 R.I.P Exalted one",
+    "url"      : "/chaos-theory/EPISODE-23-RIP-Exalted-one/",
+    "category" : "chaos-theory",
+    "date"     : "December 28, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "The Alliance Pro Wrestling Network reviews NSW Season&#39;s Beatings!",
     "url"      : "/alliance-pro-wrestling-network/The-Alliance-Pro-Wrestling-Network-reviews-NSW-Seasons-Beatings/",
     "category" : "alliance-pro-wrestling-network",
@@ -30417,6 +32146,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Special - Interveiw With Andy Scott",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Special-Interveiw-With-Andy-Scott/",
+    "category" : "tea-and-tights",
+    "date"     : "December 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -30786,6 +32528,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Episode 14: Speaking Out Again",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-14-Speaking-Out-Again/",
+    "category" : "tea-and-tights",
+    "date"     : "December 22, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Untitled Wrestling Podcast by SWN #6 | Frank Mandolini",
     "url"      : "/scottish-wrestling-network/Untitled-Wrestling-Podcast-by-SWN-6-Frank-Mandolini/",
     "category" : "scottish-wrestling-network",
@@ -31002,6 +32757,71 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 22 Booking the Territory week 1 (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-22-Booking-the-Territory-week-1-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 22 Booking the Territory week 1 (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-22-Booking-the-Territory-week-1-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 22 Booking the Territory week 1 (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-22-Booking-the-Territory-week-1-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 22 Booking the Territory week 1 (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-22-Booking-the-Territory-week-1-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 22 Booking the Territory week 1",
+    "url"      : "/chaos-theory/Episode-22-Booking-the-Territory-week-1/",
+    "category" : "chaos-theory",
+    "date"     : "December 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -31345,6 +33165,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Episode 13: Guess who is back, back again ",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-13-Guess-who-is-back-back-again/",
+    "category" : "tea-and-tights",
+    "date"     : "December 14, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Untitled Wrestling Podcast by SWN #4 | The Christmas Party w/ Brent Carter &amp; Stone Malone",
     "url"      : "/scottish-wrestling-network/Untitled-Wrestling-Podcast-by-SWN-4-The-Christmas-Party-w-Brent-Carter-Stone-Malone/",
     "category" : "scottish-wrestling-network",
@@ -31444,6 +33277,58 @@
     
     "author"   : "It’s My House Podcast",
     "author-url": "authors/its-my-house"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 21 Top 25 Womens wrestlers Part 2 (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-21-Top-25-Womens-wrestlers-Part-2-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 21 Top 25 Womens wrestlers Part 2 (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-21-Top-25-Womens-wrestlers-Part-2-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 21 Top 25 Womens wrestlers Part 2 (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-21-Top-25-Womens-wrestlers-Part-2-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 21 Top 25 Womens wrestlers Part 2",
+    "url"      : "/chaos-theory/Episode-21-Top-25-Womens-wrestlers-Part-2/",
+    "category" : "chaos-theory",
+    "date"     : "December 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -31800,6 +33685,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Episode 12: Birthdays, Brawls and Bear Hug",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-12-Birthdays-Brawls-and-Bear-Hug/",
+    "category" : "tea-and-tights",
+    "date"     : "December 07, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "WWE NXT Takeover War Games Results. Undisputed Era rules over McAfee&#39;s team. LeRae vs Shotzi",
     "url"      : "/rope-break/WWE-NXT-Takeover-War-Games-Results-Undisputed-Era-rules-over-McAfees-team-LeRae-vs-Shotzi/",
     "category" : "rope-break",
@@ -31873,6 +33771,71 @@
     
     "author"   : "Scottish Wrestling Network",
     "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 20 Top 25 womens wrestlers part 1 (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-20-Top-25-womens-wrestlers-part-1-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 06, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 20 Top 25 womens wrestlers part 1 (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-20-Top-25-womens-wrestlers-part-1-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 06, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 20 Top 25 womens wrestlers part 1 (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-20-Top-25-womens-wrestlers-part-1-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 06, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 20 Top 25 womens wrestlers part 1 (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-20-Top-25-womens-wrestlers-part-1-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "December 06, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 20 Top 25 womens wrestlers part 1",
+    "url"      : "/chaos-theory/Episode-20-Top-25-womens-wrestlers-part-1/",
+    "category" : "chaos-theory",
+    "date"     : "December 06, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -32211,6 +34174,19 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Episode 11: The Revolution Will Be Podcasted Part 2",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-11-The-Revolution-Will-Be-Podcasted-Part-2/",
+    "category" : "tea-and-tights",
+    "date"     : "November 30, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -32718,6 +34694,19 @@
     
     "author"   : "It’s Time To Fight!! Hosted by Matthew Terry",
     "author-url": "authors/time-to-fight"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights - Episode 10: The Revolution will be Podcasted Part 1",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-10-The-Revolution-will-be-Podcasted-Part-1/",
+    "category" : "tea-and-tights",
+    "date"     : "November 24, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -33308,6 +35297,19 @@
   
   {
 
+    "title"    : "Tea and Tights Episode 9: Epic British Wrestling",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-9-Epic-British-Wrestling/",
+    "category" : "tea-and-tights",
+    "date"     : "November 16, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast | Umar Mohammed II: Electric Boogaloo",
     "url"      : "/scottish-wrestling-network/SWN-Podcast-Umar-Mohammed-II-Electric-Boogaloo/",
     "category" : "scottish-wrestling-network",
@@ -33329,6 +35331,71 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 19 Tag Team bracket pt 2 (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-19-Tag-Team-bracket-pt-2-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "November 16, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 19 Tag Team bracket pt 2 (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-19-Tag-Team-bracket-pt-2-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "November 16, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 19 Tag Team bracket pt 2 (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-19-Tag-Team-bracket-pt-2-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "November 16, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 19 Tag Team bracket pt 2 (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-19-Tag-Team-bracket-pt-2-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "November 16, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 19 Tag Team bracket pt 2",
+    "url"      : "/chaos-theory/EPISODE-19-Tag-Team-bracket-pt-2/",
+    "category" : "chaos-theory",
+    "date"     : "November 16, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -33719,6 +35786,19 @@
     
     "author"   : "John Scott",
     "author-url": "authors/john"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Episode 8: Lethal Lockdown",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-8-Lethal-Lockdown/",
+    "category" : "tea-and-tights",
+    "date"     : "November 09, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -34361,6 +36441,19 @@
   
   {
 
+    "title"    : "Tea and Tights Episode 7: 5 Star Appreciation ",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-7-5-Star-Appreciation/",
+    "category" : "tea-and-tights",
+    "date"     : "November 02, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Barcelona SC vs Liga De Quito 2-2 Goles &amp; Analisis Liga Pro 2020 Fecha 4. Rope Break Soccer",
     "url"      : "/rope-break/Barcelona-SC-vs-Liga-De-Quito-22-Goles-Analisis-Liga-Pro-2020-Fecha-4-Rope-Break-Soccer/",
     "category" : "rope-break",
@@ -34863,6 +36956,71 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 18 Tag Team bracket part 1 (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/EPISODE-18-Tag-Team-bracket-part-1-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 18 Tag Team bracket part 1 (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/EPISODE-18-Tag-Team-bracket-part-1-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 18 Tag Team bracket part 1 (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/EPISODE-18-Tag-Team-bracket-part-1-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 18 Tag Team bracket part 1",
+    "url"      : "/chaos-theory/EPISODE-18-Tag-Team-bracket-part-1/",
+    "category" : "chaos-theory",
+    "date"     : "October 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights: Eipsode 6 - &quot;Bah Ghawd I think he Killed Him&quot;",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Eipsode-6-Bah-Ghawd-I-think-he-Killed-Him/",
+    "category" : "tea-and-tights",
+    "date"     : "October 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -35479,6 +37637,19 @@
   
   {
 
+    "title"    : "Tea and Tights Episode 5: Ouch!!!!",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-5-Ouch/",
+    "category" : "tea-and-tights",
+    "date"     : "October 19, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast | The Shambles Episode with Fletch Cassidy, Major Matt Wolfe &amp; Mister Manoval",
     "url"      : "/scottish-wrestling-network/SWN-Podcast-The-Shambles-Episode-with-Fletch-Cassidy-Major-Matt-Wolfe-Mister-Manoval/",
     "category" : "scottish-wrestling-network",
@@ -35552,6 +37723,19 @@
     
     "author"   : "DA CALL UP",
     "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 17 Top 10 tag teams of all time",
+    "url"      : "/chaos-theory/EP-17-Top-10-tag-teams-of-all-time/",
+    "category" : "chaos-theory",
+    "date"     : "October 19, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -35929,6 +38113,19 @@
     
     "author"   : "Kurt Johansson",
     "author-url": "authors/kurt-johansson"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights Episode 4: Who run the World? Girls",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-4-Who-run-the-World-Girls/",
+    "category" : "tea-and-tights",
+    "date"     : "October 14, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -36436,6 +38633,19 @@
     
     "author"   : "The Bob Culture Podcast",
     "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 3: Bring Back British Heritage ",
+    "url"      : "/tea-and-tights/Episode-3-Bring-Back-British-Heritage/",
+    "category" : "tea-and-tights",
+    "date"     : "October 07, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -37234,6 +39444,71 @@
   
   {
 
+    "title"    : "EP 16 Top 10 Storylines of ALL TIME (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/EP-16-Top-10-Storylines-of-ALL-TIME-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 04, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 16 Top 10 Storylines of ALL TIME (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/EP-16-Top-10-Storylines-of-ALL-TIME-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 04, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 16 Top 10 Storylines of ALL TIME (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/EP-16-Top-10-Storylines-of-ALL-TIME-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 04, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 16 Top 10 Storylines of ALL TIME (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/EP-16-Top-10-Storylines-of-ALL-TIME-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "October 04, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 16 Top 10 Storylines of ALL TIME",
+    "url"      : "/chaos-theory/EP-16-Top-10-Storylines-of-ALL-TIME/",
+    "category" : "chaos-theory",
+    "date"     : "October 04, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "WWE Smackdown Bliss &amp; The Fiend Closer than ever. Draft Next week, Banks wants Bayley for the title",
     "url"      : "/rope-break/WWE-Smackdown-Bliss-The-Fiend-Closer-than-ever-Draft-Next-week-Banks-wants-Bayley-for-the-title/",
     "category" : "rope-break",
@@ -37450,6 +39725,19 @@
     
     "author"   : "Turnbuckle Arms Podcast",
     "author-url": "authors/turnbuckle-arms-podcast"
+
+  } ,
+  
+  {
+
+    "title"    : "Tea and Tights: Speaking Out In Parliament",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Speaking-Out-In-Parliament/",
+    "category" : "tea-and-tights",
+    "date"     : "September 30, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
 
   } ,
   
@@ -37988,6 +40276,19 @@
   
   {
 
+    "title"    : "Tea and Tights; Episode 1 The Return of NXT UK",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Episode-1-The-Return-of-NXT-UK/",
+    "category" : "tea-and-tights",
+    "date"     : "September 24, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 159! My Interview with Sexy Stan Smith",
     "url"      : "/interviews/straight-talk-wrestling/Episode-159-My-Interview-with-Sexy-Stan-Smith/",
     "category" : "interviews, straight-talk-wrestling",
@@ -38456,6 +40757,71 @@
   
   {
 
+    "title"    : "EPISODE 15 Snap into the Madness (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-15-Snap-into-the-Madness-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 17, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 15 Snap into the Madness (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-15-Snap-into-the-Madness-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 17, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 15 Snap into the Madness (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-15-Snap-into-the-Madness-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 17, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 15 Snap into the Madness (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-15-Snap-into-the-Madness-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 17, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 15 Snap into the Madness",
+    "url"      : "/chaos-theory/EPISODE-15-Snap-into-the-Madness/",
+    "category" : "chaos-theory",
+    "date"     : "September 17, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "LDU vs Binacional (1-0) Resumen y Goles. Copa Libertadores 2020. Grupo D",
     "url"      : "/rope-break/LDU-vs-Binacional-10-Resumen-y-Goles-Copa-Libertadores-2020-Grupo-D/",
     "category" : "rope-break",
@@ -38789,6 +41155,58 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 14 The Lone Blackhart (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-14-The-Lone-Blackhart-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 09, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 14 The Lone Blackhart (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-14-The-Lone-Blackhart-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 09, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 14 The Lone Blackhart (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-14-The-Lone-Blackhart-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "September 09, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 14 The Lone BlackHart",
+    "url"      : "/chaos-theory/Episode-14-The-Lone-BlackHart/",
+    "category" : "chaos-theory",
+    "date"     : "September 09, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -39717,6 +42135,71 @@
   
   {
 
+    "title"    : "Episode 13 Polka Dotted Dream (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-13-Polka-Dotted-Dream-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 13 Polka Dotted Dream (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-13-Polka-Dotted-Dream-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 13 Polka Dotted Dream (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-13-Polka-Dotted-Dream-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 13 Polka Dotted Dream (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/Episode-13-Polka-Dotted-Dream-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 13 Polka Dotted Dream",
+    "url"      : "/chaos-theory/Episode-13-Polka-Dotted-Dream/",
+    "category" : "chaos-theory",
+    "date"     : "August 27, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Synergy Pro Wrestling Owner, Colin West",
     "url"      : "/bob-culture/Synergy-Pro-Wrestling-Owner-Colin-West/",
     "category" : "bob-culture",
@@ -40224,6 +42707,71 @@
   
   {
 
+    "title"    : "EPISODE 12 Cheating Death and Stealing Life (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-12-Cheating-Death-and-Stealing-Life-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 12 Cheating Death and Stealing Life (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-12-Cheating-Death-and-Stealing-Life-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 12 Cheating Death and Stealing Life (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-12-Cheating-Death-and-Stealing-Life-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 12 Cheating Death and Stealing Life (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/EPISODE-12-Cheating-Death-and-Stealing-Life-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EPISODE 12 Cheating Death and Stealing Life",
+    "url"      : "/chaos-theory/EPISODE-12-Cheating-Death-and-Stealing-Life/",
+    "category" : "chaos-theory",
+    "date"     : "August 20, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "NXT TAKEOVER XXX Picks",
     "url"      : "/bob-culture/NXT-TAKEOVER-XXX-Picks/",
     "category" : "bob-culture",
@@ -40510,6 +43058,19 @@
   
   {
 
+    "title"    : "Episode 11 Impact 06",
+    "url"      : "/chaos-theory/Episode-11-Impact-06/",
+    "category" : "chaos-theory",
+    "date"     : "August 14, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "EPISODE 152! Learning fro  the 11th Warrior Jamin  Olivencia",
     "url"      : "/straight-talk-wrestling/EPISODE-152-Learning-fro-the-11th-Warrior-Jamin-Olivencia/",
     "category" : "straight-talk-wrestling",
@@ -40791,6 +43352,58 @@
     
     "author"   : "Rewind Recap Relive",
     "author-url": "authors/rewind-recap-relive"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 10 Impact 05 (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-10-Impact-05-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 07, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 10 Impact 05 (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-10-Impact-05-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 07, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 10 Impact 05 (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Episode-10-Impact-05-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "August 07, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 10 Impact 05",
+    "url"      : "/chaos-theory/Episode-10-Impact-05/",
+    "category" : "chaos-theory",
+    "date"     : "August 07, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -41498,6 +44111,58 @@
   
   {
 
+    "title"    : "EP 9 Chaos Club (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/EP-9-Chaos-Club-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 22, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 9 Chaos Club (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/EP-9-Chaos-Club-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 22, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 9 Chaos Club (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/EP-9-Chaos-Club-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 22, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 9 Chaos Club",
+    "url"      : "/chaos-theory/EP-9-Chaos-Club/",
+    "category" : "chaos-theory",
+    "date"     : "July 22, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Monday Night Raw review: Thr Big Show falls victim to The Legend Killer, Ali makes his RAW debut!",
     "url"      : "/rope-break/Monday-Night-Raw-review-Thr-Big-Show-falls-victim-to-The-Legend-Killer-Ali-makes-his-RAW-debut/",
     "category" : "rope-break",
@@ -41966,6 +44631,84 @@
   
   {
 
+    "title"    : "Episode 8 The one with Eddie Pence (part 5 of 5)",
+    "url"      : "/chaos-theory/videos/Episode-8-The-one-with-Eddie-Pence-part-5-of-5/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 8 The one with Eddie Pence (part 4 of 5)",
+    "url"      : "/chaos-theory/videos/Episode-8-The-one-with-Eddie-Pence-part-4-of-5/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 8 The one with Eddie Pence (part 3 of 5)",
+    "url"      : "/chaos-theory/videos/Episode-8-The-one-with-Eddie-Pence-part-3-of-5/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 8 The one with Eddie Pence (part 2 of 5)",
+    "url"      : "/chaos-theory/videos/Episode-8-The-one-with-Eddie-Pence-part-2-of-5/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 8 The one with Eddie Pence (part 1 of 5)",
+    "url"      : "/chaos-theory/videos/Episode-8-The-one-with-Eddie-Pence-part-1-of-5/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 8 The one with Eddie Pence",
+    "url"      : "/chaos-theory/Episode-8-The-one-with-Eddie-Pence/",
+    "category" : "chaos-theory",
+    "date"     : "July 13, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Ep144 - NXT Great American Bash - Night Two Review (with Stuie Palmer &#39;Stu&#39;s Wrestling Podcast&#39;)",
     "url"      : "/wrestling-with-johners/EP144/",
     "category" : "wrestling-with-johners",
@@ -42013,6 +44756,149 @@
     
     "author"   : "Rewind Recap Relive",
     "author-url": "authors/rewind-recap-relive"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 9 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-9-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 8 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-8-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 7 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-7-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 6 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-6-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 5 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-5-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 4 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-4-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 3 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-3-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 2 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-2-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 10 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-10-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode (part 1 of 10)",
+    "url"      : "/chaos-theory/videos/Episode-7-The-MEGA-episode-part-1-of-10/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7 The MEGA episode",
+    "url"      : "/chaos-theory/Episode-7-The-MEGA-episode/",
+    "category" : "chaos-theory",
+    "date"     : "July 12, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -42369,6 +45255,123 @@
   
   {
 
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 8 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-8-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 7 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-7-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 6 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-6-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 5 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-5-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 4 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-4-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 3 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-3-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 2 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-2-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky (part 1 of 8)",
+    "url"      : "/chaos-theory/videos/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky-part-1-of-8/",
+    "category" : "chaos-theory, videos",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 6 The Rant from Ringside With RJ Kruszinsky",
+    "url"      : "/chaos-theory/Episode-6-The-Rant-from-Ringside-With-RJ-Kruszinsky/",
+    "category" : "chaos-theory",
+    "date"     : "July 03, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Jake The Snake Interview",
     "url"      : "/bob-culture/interviews/Jake-The-Snake-Interview/",
     "category" : "bob-culture, interviews",
@@ -42590,6 +45593,19 @@
   
   {
 
+    "title"    : "Episode 5 the Mcnabb episode",
+    "url"      : "/chaos-theory/Episode-5-the-Mcnabb-episode/",
+    "category" : "chaos-theory",
+    "date"     : "June 28, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Ep142 - &#39;The Breaker of Necks&#39; ANAYA Interview (LLL Heavyweight Champion)",
     "url"      : "/interviews/wrestling-with-johners/EP142/",
     "category" : "interviews, wrestling-with-johners",
@@ -42650,6 +45666,97 @@
     
     "author"   : "Rewind Recap Relive",
     "author-url": "authors/rewind-recap-relive"
+
+  } ,
+  
+  {
+
+    "title"    : "Turning Point (part 3 of 3)",
+    "url"      : "/chaos-theory/videos/Turning-Point-part-3-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Turning Point (part 2 of 3)",
+    "url"      : "/chaos-theory/videos/Turning-Point-part-2-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Turning Point (part 1 of 3)",
+    "url"      : "/chaos-theory/videos/Turning-Point-part-1-of-3/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "THIS ONES PERSONAL (part 4 of 4)",
+    "url"      : "/chaos-theory/videos/THIS-ONES-PERSONAL-part-4-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "THIS ONES PERSONAL (part 3 of 4)",
+    "url"      : "/chaos-theory/videos/THIS-ONES-PERSONAL-part-3-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "THIS ONES PERSONAL (part 2 of 4)",
+    "url"      : "/chaos-theory/videos/THIS-ONES-PERSONAL-part-2-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "THIS ONES PERSONAL (part 1 of 4)",
+    "url"      : "/chaos-theory/videos/THIS-ONES-PERSONAL-part-1-of-4/",
+    "category" : "chaos-theory, videos",
+    "date"     : "June 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -43461,6 +46568,19 @@
   
   {
 
+    "title"    : "IN YO HOUSE",
+    "url"      : "/chaos-theory/IN-YO-HOUSE/",
+    "category" : "chaos-theory",
+    "date"     : "June 08, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 4 - What&#39;s With The Glove?",
     "url"      : "/turning-heel/EP4/",
     "category" : "turning-heel",
@@ -43677,6 +46797,19 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "THIS ONES PERSONAL",
+    "url"      : "/chaos-theory/THIS-ONES-PERSONAL/",
+    "category" : "chaos-theory",
+    "date"     : "June 02, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
@@ -45047,6 +48180,19 @@
   
   {
 
+    "title"    : "Turning Point",
+    "url"      : "/chaos-theory/Turning-Point/",
+    "category" : "chaos-theory",
+    "date"     : "May 02, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
     "title"    : "Endgame Watch Along",
     "url"      : "/bob-culture/Endgame-Watch-Along/",
     "category" : "bob-culture",
@@ -45237,6 +48383,19 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 1 WELCOME TO THE CHAOS",
+    "url"      : "/chaos-theory/Episode-1-WELCOME-TO-THE-CHAOS/",
+    "category" : "chaos-theory",
+    "date"     : "April 26, 2020",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
