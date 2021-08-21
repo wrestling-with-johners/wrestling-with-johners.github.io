@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "It&#39;s Clobberin Time",
+    "url"      : "/such-good-shoot/videos/Its-Clobberin-Time/",
+    "category" : "such-good-shoot, videos",
+    "date"     : "August 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "Such Good Shoots With Mike Chioda",
     "url"      : "/such-good-shoot/Such-Good-Shoots-With-Mike-Chioda/",
     "category" : "such-good-shoot",
@@ -23,6 +36,58 @@
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags Prediction League  Double Shot WWE SummerSlam 2021 &amp; NXT Takeover 36",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-Prediction-League-Double-Shot-WWE-SummerSlam-2021-NXT-Takeover-36/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "August 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags Prediction League Preview: SummerSlam 2021 &amp; NXT Takeover 36",
+    "url"      : "/scumbags-of-wrestling/Scumbags-Prediction-League-Preview-SummerSlam-2021-NXT-Takeover-36/",
+    "category" : "scumbags-of-wrestling",
+    "date"     : "August 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "AEW Rampage The First Dance : CM Punk Is Back | WWE Smackdown :Cena vs Reigns Face to Face",
+    "url"      : "/rope-break/videos/AEW-Rampage-The-First-Dance-CM-Punk-Is-Back-WWE-Smackdown-Cena-vs-Reigns-Face-to-Face/",
+    "category" : "rope-break, videos",
+    "date"     : "August 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Rope Break",
+    "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "AEW RAMPAGE THE FIRST DANCE LIVESTREAM WATCH-ALONG AUGUST 20TH",
+    "url"      : "/jofo-in-the-ring/videos/AEW-RAMPAGE-THE-FIRST-DANCE-LIVESTREAM-WATCHALONG-AUGUST-20TH/",
+    "category" : "jofo-in-the-ring, videos",
+    "date"     : "August 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
 
   } ,
   
@@ -108,19 +173,6 @@
 
     "title"    : "This Week in History Episode #35  August 13 19",
     "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-35-August-13-19/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "August 20, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
-
-  } ,
-  
-  {
-
-    "title"    : "Scumbags Prediction League  Double Shot WWE SummerSlam 2021 &amp; NXT Takeover 36",
-    "url"      : "/scumbags-of-wrestling/videos/Scumbags-Prediction-League-Double-Shot-WWE-SummerSlam-2021-NXT-Takeover-36/",
     "category" : "scumbags-of-wrestling, videos",
     "date"     : "August 20, 2021",
     "excerpt"  : " ",
