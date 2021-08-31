@@ -80,6 +80,19 @@
   
   {
 
+    "title"    : "ShootingSht Episode 1",
+    "url"      : "/shootin-sht/videos/ShootingSht-Episode-1/",
+    "category" : "shootin-sht, videos",
+    "date"     : "August 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 1 - Load the spaceship with the rocket fuel! Blasting off to Parts Unknown!",
     "url"      : "/shootin-sht/Episode-1-Load-the-spaceship-with-the-rocket-fuel-Blasting-off-to-Parts-Unknown/",
     "category" : "shootin-sht",
