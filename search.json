@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "RJ SINGH - WHAT DO YOU CALL IT? PODCAST!",
+    "url"      : "/what-do-you-call-it/RJ-SINGH-WHAT-DO-YOU-CALL-IT-PODCAST/",
+    "category" : "what-do-you-call-it",
+    "date"     : "September 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
     "title"    : "This Week in History Episode #37  August 27 - September 2",
     "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-37-August-27-September-2/",
     "category" : "scumbags-of-wrestling, videos",
@@ -49,6 +62,19 @@
     
     "author"   : "DA CALL UP",
     "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
+    "title"    : "The Chop Shop: NXT Splatoon",
+    "url"      : "/bucklebomb-entertainment/The-Chop-Shop-NXT-Splatoon/",
+    "category" : "bucklebomb-entertainment",
+    "date"     : "September 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Bucklebomb Entertainment",
+    "author-url": "authors/bucklebomb-entertainment"
 
   } ,
   
