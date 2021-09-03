@@ -28,6 +28,19 @@
   
   {
 
+    "title"    : "NWA 73",
+    "url"      : "/turning-heel/NWA-73/",
+    "category" : "turning-heel",
+    "date"     : "September 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Turning Heel Podcast",
+    "author-url": "authors/turning-heel"
+
+  } ,
+  
+  {
+
     "title"    : "Tornado Tag Podcast #119 All Out 2021",
     "url"      : "/tornado-tag/Tornado-Tag-Podcast-119-All-Out-2021/",
     "category" : "tornado-tag",
@@ -218,6 +231,19 @@
     
     "author"   : "Bucklebomb Entertainment",
     "author-url": "authors/bucklebomb-entertainment"
+
+  } ,
+  
+  {
+
+    "title"    : "All Out 2021 Picks",
+    "url"      : "/bob-culture/videos/All-Out-2021-Picks/",
+    "category" : "bob-culture, videos",
+    "date"     : "September 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
 
   } ,
   
