@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "Episode 123: Anthony Henry ",
+    "url"      : "/ringside-rant/Episode-123-Anthony-Henry/",
+    "category" : "ringside-rant",
+    "date"     : "September 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
     "title"    : "DRAFT SPECIAL W/ BISHOP FROM TERRIBLE WRESTLING TAKES",
     "url"      : "/chaos-theory/videos/DRAFT-SPECIAL-W-BISHOP-FROM-TERRIBLE-WRESTLING-TAKES/",
     "category" : "chaos-theory, videos",
@@ -23,6 +36,19 @@
     
     "author"   : "Chaos Theory Podcast",
     "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Champs Out Last Presents Going All Out",
+    "url"      : "/champs-out-last/Champs-Out-Last-Presents-Going-All-Out/",
+    "category" : "champs-out-last",
+    "date"     : "September 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Champs Out Last Podcast",
+    "author-url": "authors/champs-out-last"
 
   } ,
   
