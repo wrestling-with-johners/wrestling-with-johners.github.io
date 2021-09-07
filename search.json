@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "IDOL HEINZE - WHAT DO YOU CALL IT? PODCAST!",
+    "url"      : "/what-do-you-call-it/IDOL-HEINZE-WHAT-DO-YOU-CALL-IT-PODCAST/",
+    "category" : "what-do-you-call-it",
+    "date"     : "September 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
     "title"    : "“The Absolute Unit” Sam Stackhouse",
     "url"      : "/toilet-side-wrestling-talk/videos/The-Absolute-Unit-Sam-Stackhouse/",
     "category" : "toilet-side-wrestling-talk, videos",
@@ -75,6 +88,19 @@
     
     "author"   : "Kurt Johansson",
     "author-url": "authors/kurt-johansson"
+
+  } ,
+  
+  {
+
+    "title"    : "Champs Out Last Presents Carnival Of Honor",
+    "url"      : "/champs-out-last/Champs-Out-Last-Presents-Carnival-Of-Honor/",
+    "category" : "champs-out-last",
+    "date"     : "September 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Champs Out Last Podcast",
+    "author-url": "authors/champs-out-last"
 
   } ,
   
