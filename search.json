@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Shane watched They Live!",
+    "url"      : "/such-good-shoot/videos/Shane-watched-They-Live/",
+    "category" : "such-good-shoot, videos",
+    "date"     : "September 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "Ep204 - Joel Redman Interview (All Star Wrestling, NXT Tag Team Champion, All Japan Pro Wrestling + much more!) ",
     "url"      : "/interviews/wrestling-with-johners/Ep204-Joel-Redman-Interview-All-Star-Wrestling-NXT-Tag-Team-Champion-All-Japan-Pro-Wrestling-much-more/",
     "category" : "interviews, wrestling-with-johners",
@@ -223,8 +236,8 @@
   
   {
 
-    "title"    : "Kevin Owens leaving the WWE?, Lio Rush to AEW update, WWE&#39;s silly plans for Adam Cole is he stayed",
-    "url"      : "/alliance-pro-wrestling-network/videos/Kevin-Owens-leaving-the-WWE-Lio-Rush-to-AEW-update-WWEs-silly-plans-for-Adam-Cole-is-he-stayed/",
+    "title"    : "Kevin Owens leaving the WWE?, Lio Rush to AEW update, WWE&#39;s silly plans for Adam Cole if he stayed",
+    "url"      : "/alliance-pro-wrestling-network/videos/Kevin-Owens-leaving-the-WWE-Lio-Rush-to-AEW-update-WWEs-silly-plans-for-Adam-Cole-if-he-stayed/",
     "category" : "alliance-pro-wrestling-network, videos",
     "date"     : "September 09, 2021",
     "excerpt"  : " ",
