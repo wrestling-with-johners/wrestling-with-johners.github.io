@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "Episode 124: In Your House Ground Zero ",
+    "url"      : "/ringside-rant/Episode-124-In-Your-House-Ground-Zero/",
+    "category" : "ringside-rant",
+    "date"     : "September 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
     "title"    : "The Power Hour Paragon vs Beau Crockett",
     "url"      : "/power-hour/videos/The-Power-Hour-Paragon-vs-Beau-Crockett/",
     "category" : "power-hour, videos",
@@ -49,6 +62,19 @@
     
     "author"   : "The Power Hour",
     "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
+    "title"    : "DEATH MATCH RUSSELL PODCAST LIVE THURSDAY NIGHT SEPTEMBER 9TH AT 8PM ET WITH GUEST JOSH SHERNOFF!",
+    "url"      : "/death-match-russell/videos/DEATH-MATCH-RUSSELL-PODCAST-LIVE-THURSDAY-NIGHT-SEPTEMBER-9TH-AT-8PM-ET-WITH-GUEST-JOSH-SHERNOFF/",
+    "category" : "death-match-russell, videos",
+    "date"     : "September 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Death Match Russell Podcast",
+    "author-url": "authors/death-match-russell"
 
   } ,
   
