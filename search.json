@@ -158,6 +158,19 @@
   
   {
 
+    "title"    : "Josh Adams Interview",
+    "url"      : "/bob-culture/interviews/Josh-Adams-Interview/",
+    "category" : "bob-culture, interviews",
+    "date"     : "September 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "Ep204 - Joel Redman Interview (All Star Wrestling, NXT Tag Team Champion, All Japan Pro Wrestling + much more!) ",
     "url"      : "/interviews/wrestling-with-johners/Ep204-Joel-Redman-Interview-All-Star-Wrestling-NXT-Tag-Team-Champion-All-Japan-Pro-Wrestling-much-more/",
     "category" : "interviews, wrestling-with-johners",
@@ -210,8 +223,8 @@
   
   {
 
-    "title"    : "EP 48 - RYAN BARBY - WHAT DO YOU CALL IT? PODCAST! (FULL EPISODE)",
-    "url"      : "/videos/what-do-you-call-it/EP-48-RYAN-BARBY-WHAT-DO-YOU-CALL-IT-PODCAST-FULL-EPISODE/",
+    "title"    : "EP 49 - RYAN BARBY - WHAT DO YOU CALL IT? PODCAST! (FULL EPISODE)",
+    "url"      : "/videos/what-do-you-call-it/EP-49-RYAN-BARBY-WHAT-DO-YOU-CALL-IT-PODCAST-FULL-EPISODE/",
     "category" : "videos, what-do-you-call-it",
     "date"     : "September 09, 2021",
     "excerpt"  : " ",
