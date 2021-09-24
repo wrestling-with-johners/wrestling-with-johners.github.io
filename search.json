@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "drive and talk",
+    "url"      : "/guilmy-talks/drive-and-talk/",
+    "category" : "guilmy-talks",
+    "date"     : "September 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Justin Guilmette",
+    "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
     "title"    : "MLW Rewind Fusion Alpha Episode 1 review",
     "url"      : "/straight-talk-wrestling/videos/MLW-Rewind-Fusion-Alpha-Episode-1-review/",
     "category" : "straight-talk-wrestling, videos",
