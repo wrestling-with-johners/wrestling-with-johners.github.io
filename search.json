@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "Takeover Unstoppable",
+    "url"      : "/such-good-shoot/Takeover-Unstoppable/",
+    "category" : "such-good-shoot",
+    "date"     : "September 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 5: Farewell Lilly, We Hardly Knew Ye… or An ode to possessed cotton and polyester",
     "url"      : "/shootin-sht/Episode-5-Farewell-Lilly-We-Hardly-Knew-Ye-or-An-ode-to-possessed-cotton-and-polyester/",
     "category" : "shootin-sht",
@@ -75,6 +88,19 @@
     
     "author"   : "Scumbags of Wrestling Podcast",
     "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Titan Championship Wrestling Presents WarFare Preacher Finneus James vs Anthony Gangone",
+    "url"      : "/death-match-russell/videos/Titan-Championship-Wrestling-Presents-WarFare-Preacher-Finneus-James-vs-Anthony-Gangone/",
+    "category" : "death-match-russell, videos",
+    "date"     : "September 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Death Match Russell Podcast",
+    "author-url": "authors/death-match-russell"
 
   } ,
   
