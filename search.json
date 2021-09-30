@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "EP 52 - RP DAVIES - WHAT DO YOU CALL IT? PODCAST! (FULL EPISODE)",
+    "url"      : "/videos/what-do-you-call-it/EP-52-RP-DAVIES-WHAT-DO-YOU-CALL-IT-PODCAST-FULL-EPISODE/",
+    "category" : "videos, what-do-you-call-it",
+    "date"     : "September 30, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
     "title"    : "Extreme Rules 2021 (and MORE) RE-UP",
     "url"      : "/turning-heel/Extreme-Rules-2021-and-MORE-REUP/",
     "category" : "turning-heel",
@@ -70,6 +83,19 @@
     "title"    : "This Week in History Episode #41: September 24-30",
     "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-41-September-2430/",
     "category" : "scumbags-of-wrestling, videos",
+    "date"     : "September 30, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "This Week in History Episode #41: September 24-30",
+    "url"      : "/scumbags-of-wrestling/This-Week-in-History-Episode-41-September-2430/",
+    "category" : "scumbags-of-wrestling",
     "date"     : "September 30, 2021",
     "excerpt"  : " ",
     
@@ -127,6 +153,19 @@
     
     "author"   : "DA CALL UP",
     "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
+    "title"    : "IMPACT WRESTLING TO INTRODUCE A NEW CHAMPIONSHIP!",
+    "url"      : "/alliance-pro-wrestling-network/videos/IMPACT-WRESTLING-TO-INTRODUCE-A-NEW-CHAMPIONSHIP/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "September 30, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
