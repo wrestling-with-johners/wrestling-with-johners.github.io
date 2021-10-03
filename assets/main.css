@@ -172,13 +172,13 @@ footer .copyright { font-size: 14px; margin-bottom: 0; text-align: center; }
 
 #results-container hr { margin-left: 0; margin-right: 0; }
 
-.promo-overlay { position: fixed; display: grid; grid-template-columns: 3fr 1fr 3fr; grid-column-gap: 1em; width: 100%; height: 100%; z-index: 1029; justify-items: center; padding-top: 10em; pointer-events: none; }
+.promo-overlay { position: fixed; display: grid; grid-template-columns: 3fr 1fr 3fr; grid-column-gap: 1em; width: 100%; height: 100%; z-index: 1029; justify-items: center; padding-top: 1em; pointer-events: none; }
 
-.promo-overlay > div { width: 70%; }
+.promo-overlay > div { width: 70%; text-align: center; }
 
 .promo-overlay > div > a { pointer-events: all; }
 
-.promo-overlay > div > a > img { transform: rotate(-90deg); width: 100%; }
+.promo-overlay > div > a > img { width: 35%; }
 
 @media only screen and (max-width: 992px) { .promo-overlay { display: none; } }
 
