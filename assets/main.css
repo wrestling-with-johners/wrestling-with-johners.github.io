@@ -60,7 +60,7 @@ header.masthead .overlay { position: absolute; top: 0; left: 0; height: 100%; wi
 
 header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 100px 0 150px; color: white; }
 
-@media only screen and (min-width: 768px) { header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 6em 0; } }
+@media only screen and (min-width: 768px) { header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 5em 0; } }
 
 header.masthead .page-heading, header.masthead .site-heading { text-align: center; }
 
