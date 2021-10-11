@@ -28,14 +28,27 @@
   
   {
 
-    "title"    : "Chango Bronson vs Delta jr vs The Provider",
-    "url"      : "/lucha-libre-and-laughs/videos/Chango-Bronson-vs-Delta-jr-vs-The-Provider/",
-    "category" : "lucha-libre-and-laughs, videos",
+    "title"    : "SWN Podcast | with Martin MacAlistair",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Martin-MacAlistair/",
+    "category" : "scottish-wrestling-network, videos",
     "date"     : "October 11, 2021",
     "excerpt"  : " ",
     
-    "author"   : "Lucha Libre & Laughs",
-    "author-url": "authors/lucha-libre-and-laughs"
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Martin MacAlistair",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Martin-MacAlistair/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "October 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
 
   } ,
   
@@ -62,6 +75,32 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "The Alliance Pro Wrestling Network Special Interview Presents Indy Pro Wrestling Star Chantal",
+    "url"      : "/alliance-pro-wrestling-network/videos/The-Alliance-Pro-Wrestling-Network-Special-Interview-Presents-Indy-Pro-Wrestling-Star-Chantal/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "October 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "The Alliance Pro Wrestling Network Special Interview Presents Indy Pro Wrestling Star Chantal",
+    "url"      : "/alliance-pro-wrestling-network/interviews/The-Alliance-Pro-Wrestling-Network-Special-Interview-Presents-Indy-Pro-Wrestling-Star-Chantal/",
+    "category" : "alliance-pro-wrestling-network, interviews",
+    "date"     : "October 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
@@ -127,6 +166,19 @@
     
     "author"   : "Scottish Wrestling Network",
     "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "Chango Bronson vs Delta jr vs The Provider",
+    "url"      : "/lucha-libre-and-laughs/videos/Chango-Bronson-vs-Delta-jr-vs-The-Provider/",
+    "category" : "lucha-libre-and-laughs, videos",
+    "date"     : "October 10, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lucha Libre & Laughs",
+    "author-url": "authors/lucha-libre-and-laughs"
 
   } ,
   
