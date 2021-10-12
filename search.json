@@ -67,19 +67,6 @@
   
   {
 
-    "title"    : "Episode 7: The Gang Enjoys A Wrestling Show",
-    "url"      : "/shootin-sht/videos/Episode-7-The-Gang-Enjoys-A-Wrestling-Show/",
-    "category" : "shootin-sht, videos",
-    "date"     : "October 12, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Shootin' Sh*t Podcast!",
-    "author-url": "authors/shootin-sht"
-
-  } ,
-  
-  {
-
     "title"    : "Episode 7: The Gang enjoys a wrestling show",
     "url"      : "/shootin-sht/Episode-7-The-Gang-enjoys-a-wrestling-show/",
     "category" : "shootin-sht",
@@ -179,6 +166,19 @@
     
     "author"   : "Tea And Tights Podcast",
     "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 7: The Gang Enjoys A Wrestling Show",
+    "url"      : "/shootin-sht/videos/Episode-7-The-Gang-Enjoys-A-Wrestling-Show/",
+    "category" : "shootin-sht, videos",
+    "date"     : "October 11, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
 
   } ,
   
