@@ -54,6 +54,19 @@
   
   {
 
+    "title"    : "kWo Presents The Wrestling Hangover #3",
+    "url"      : "/kwo/kWo-Presents-The-Wrestling-Hangover-3/",
+    "category" : "kwo",
+    "date"     : "October 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "kWo Wrestling Podcast",
+    "author-url": "authors/kwo"
+
+  } ,
+  
+  {
+
     "title"    : "Guilmy Talks Cryptids The Chupacabra",
     "url"      : "/guilmy-talks/Guilmy-Talks-Cryptids-The-Chupacabra/",
     "category" : "guilmy-talks",
