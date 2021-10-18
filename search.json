@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "Straight Talk Exclusive! Featuring Josh Alexander",
+    "url"      : "/straight-talk-wrestling/videos/Straight-Talk-Exclusive-Featuring-Josh-Alexander/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "October 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Straight Talk Exclusive! Featuring Josh Alexander",
+    "url"      : "/straight-talk-wrestling/Straight-Talk-Exclusive-Featuring-Josh-Alexander/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "October 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast | with Luke Ross",
     "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Luke-Ross/",
     "category" : "scottish-wrestling-network, videos",
@@ -127,19 +153,6 @@
     
     "author"   : "Turning Heel Podcast",
     "author-url": "authors/turning-heel"
-
-  } ,
-  
-  {
-
-    "title"    : "Straight Talk Exclusive! Featuring Josh Alexander",
-    "url"      : "/straight-talk-wrestling/videos/Straight-Talk-Exclusive-Featuring-Josh-Alexander/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "October 17, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
