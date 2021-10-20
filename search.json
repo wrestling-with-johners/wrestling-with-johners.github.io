@@ -67,6 +67,32 @@
   
   {
 
+    "title"    : "WWE NXT 2.0 First Month In Review",
+    "url"      : "/its-my-wrestling/videos/WWE-NXT-20-First-Month-In-Review/",
+    "category" : "its-my-wrestling, videos",
+    "date"     : "October 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "WWE NXT 2.0 First Month In Review",
+    "url"      : "/its-my-wrestling/WWE-NXT-20-First-Month-In-Review/",
+    "category" : "its-my-wrestling",
+    "date"     : "October 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "CAPTAIN AMERICA AARON ORION",
     "url"      : "/chaos-theory/videos/CAPTAIN-AMERICA-AARON-ORION/",
     "category" : "chaos-theory, videos",
@@ -75,6 +101,19 @@
     
     "author"   : "Chaos Theory Podcast",
     "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Champs Out Last Presents Crown Jewel Predictions",
+    "url"      : "/champs-out-last/Champs-Out-Last-Presents-Crown-Jewel-Predictions/",
+    "category" : "champs-out-last",
+    "date"     : "October 20, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Champs Out Last Podcast",
+    "author-url": "authors/champs-out-last"
 
   } ,
   
