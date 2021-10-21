@@ -28,6 +28,32 @@
   
   {
 
+    "title"    : "(PART 1) - CHILLY WILLY - WHAT DO YOU CALL IT? PODCAST!",
+    "url"      : "/what-do-you-call-it/PART-1-CHILLY-WILLY-WHAT-DO-YOU-CALL-IT-PODCAST/",
+    "category" : "what-do-you-call-it",
+    "date"     : "October 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
+    "title"    : "MAT HODGSON - WHAT DO YOU CALL IT? PODCAST!",
+    "url"      : "/what-do-you-call-it/MAT-HODGSON-WHAT-DO-YOU-CALL-IT-PODCAST/",
+    "category" : "what-do-you-call-it",
+    "date"     : "October 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
     "title"    : "MLW Rewind! Fusion Alpha Episode 4 review!",
     "url"      : "/straight-talk-wrestling/videos/MLW-Rewind-Fusion-Alpha-Episode-4-review/",
     "category" : "straight-talk-wrestling, videos",
@@ -88,6 +114,19 @@
     
     "author"   : "Scumbags of Wrestling Podcast",
     "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "RENE DUPREE TALKS CM PUNK, BUBBA DUDLEY, JOHN CENA, BOB HOLLY, SYLVAIN GRENIER &amp; JEREMY PROPHET #75",
+    "url"      : "/jofo-in-the-ring/RENE-DUPREE-TALKS-CM-PUNK-BUBBA-DUDLEY-JOHN-CENA-BOB-HOLLY-SYLVAIN-GRENIER-JEREMY-PROPHET-75/",
+    "category" : "jofo-in-the-ring",
+    "date"     : "October 21, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
 
   } ,
   
