@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Not Reviewing Crown Jewel",
+    "url"      : "/such-good-shoot/Not-Reviewing-Crown-Jewel/",
+    "category" : "such-good-shoot",
+    "date"     : "October 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "BOUND FOR GLORY PREDICTIONS SHOW",
     "url"      : "/straight-talk-wrestling/videos/BOUND-FOR-GLORY-PREDICTIONS-SHOW/",
     "category" : "straight-talk-wrestling, videos",
@@ -23,6 +36,19 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "THE MOUNTIE JACQUES ROUGEAU TALKS CARL OUELLET IN THE WWF | PCO PIERRE CARL OUELLET | JEREMY PROPHET",
+    "url"      : "/jofo-in-the-ring/THE-MOUNTIE-JACQUES-ROUGEAU-TALKS-CARL-OUELLET-IN-THE-WWF-PCO-PIERRE-CARL-OUELLET-JEREMY-PROPHET/",
+    "category" : "jofo-in-the-ring",
+    "date"     : "October 23, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
 
   } ,
   
