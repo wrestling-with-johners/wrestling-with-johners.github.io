@@ -132,19 +132,6 @@
   
   {
 
-    "title"    : "October 22nd 2021 WWE SMACKDOWN LIVE WATCH ALONG",
-    "url"      : "/da-call-up/videos/October-22nd-2021-WWE-SMACKDOWN-LIVE-WATCH-ALONG/",
-    "category" : "da-call-up, videos",
-    "date"     : "October 23, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "DA CALL UP",
-    "author-url": "authors/da-call-up"
-
-  } ,
-  
-  {
-
     "title"    : "REPORT: THE IMPACT WRESTLING/AEW PARTNERSHIP TO END AFTER BOUND FOR GLORY",
     "url"      : "/alliance-pro-wrestling-network/videos/REPORT-THE-IMPACT-WRESTLINGAEW-PARTNERSHIP-TO-END-AFTER-BOUND-FOR-GLORY/",
     "category" : "alliance-pro-wrestling-network, videos",
@@ -374,6 +361,19 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "October 22nd 2021 WWE SMACKDOWN LIVE WATCH ALONG",
+    "url"      : "/da-call-up/videos/October-22nd-2021-WWE-SMACKDOWN-LIVE-WATCH-ALONG/",
+    "category" : "da-call-up, videos",
+    "date"     : "October 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "DA CALL UP",
+    "author-url": "authors/da-call-up"
 
   } ,
   
