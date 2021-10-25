@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "Sunday Evening Show",
+    "url"      : "/bucklebomb-entertainment/videos/Sunday-Evening-Show/",
+    "category" : "bucklebomb-entertainment, videos",
+    "date"     : "October 25, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Bucklebomb Entertainment",
+    "author-url": "authors/bucklebomb-entertainment"
+
+  } ,
+  
+  {
+
     "title"    : "JASON DUGAN Interview (Atomic Revolutionary Wrestling)",
     "url"      : "/videos/wrestling-with-johners/JASON-DUGAN-Interview-Atomic-Revolutionary-Wrestling/",
     "category" : "videos, wrestling-with-johners",
