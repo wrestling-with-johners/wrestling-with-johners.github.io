@@ -106,6 +106,19 @@
   
   {
 
+    "title"    : "Buckle Boys Live",
+    "url"      : "/bucklebomb-entertainment/videos/Buckle-Boys-Live/",
+    "category" : "bucklebomb-entertainment, videos",
+    "date"     : "October 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Bucklebomb Entertainment",
+    "author-url": "authors/bucklebomb-entertainment"
+
+  } ,
+  
+  {
+
     "title"    : "Bucklebomb Sunday Night Live",
     "url"      : "/bucklebomb-entertainment/Bucklebomb-Sunday-Night-Live/",
     "category" : "bucklebomb-entertainment",
@@ -114,6 +127,19 @@
     
     "author"   : "Bucklebomb Entertainment",
     "author-url": "authors/bucklebomb-entertainment"
+
+  } ,
+  
+  {
+
+    "title"    : "NXT Halloween Havoc 2021 Predictions Panel",
+    "url"      : "/bob-culture/NXT-Halloween-Havoc-2021-Predictions-Panel/",
+    "category" : "bob-culture",
+    "date"     : "October 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
 
   } ,
   
