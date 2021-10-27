@@ -54,6 +54,19 @@
   
   {
 
+    "title"    : "Joe Bellini Interview",
+    "url"      : "/bob-culture/videos/Joe-Bellini-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "October 27, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "Joe Bellini Talks Warriors of Wrestling",
     "url"      : "/bob-culture/Joe-Bellini-Talks-Warriors-of-Wrestling/",
     "category" : "bob-culture",
