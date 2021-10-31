@@ -2,14 +2,14 @@
   
   {
 
-    "title"    : "CCW: Pro Wrestling Tonight: Episode 35: Phil Early/Dadd Volante",
-    "url"      : "/pro-wrestling-tonight/videos/CCW-Pro-Wrestling-Tonight-Episode-35-Phil-EarlyDadd-Volante/",
-    "category" : "pro-wrestling-tonight, videos",
+    "title"    : "JOHN SITTON - WHAT DO YOU CALL IT? PODCAST!",
+    "url"      : "/what-do-you-call-it/JOHN-SITTON-WHAT-DO-YOU-CALL-IT-PODCAST/",
+    "category" : "what-do-you-call-it",
     "date"     : "October 31, 2021",
     "excerpt"  : " ",
     
-    "author"   : "Chicagoland Championship Wrestling",
-    "author-url": "authors/chicagoland-championship-wrestling"
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
 
   } ,
   
@@ -18,11 +18,37 @@
     "title"    : "MLW Rewind With special guest The Suplex Assassin Alex Kane",
     "url"      : "/straight-talk-wrestling/videos/MLW-Rewind-With-special-guest-The-Suplex-Assassin-Alex-Kane/",
     "category" : "straight-talk-wrestling, videos",
-    "date"     : "October 30, 2021",
+    "date"     : "October 31, 2021",
     "excerpt"  : " ",
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "MLW Rewind With Special Guest The Suplex Assassin Alex Kane",
+    "url"      : "/straight-talk-wrestling/MLW-Rewind-With-Special-Guest-The-Suplex-Assassin-Alex-Kane/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "October 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "CCW: Pro Wrestling Tonight: Episode 35: Phil Early/Dadd Volante",
+    "url"      : "/pro-wrestling-tonight/videos/CCW-Pro-Wrestling-Tonight-Episode-35-Phil-EarlyDadd-Volante/",
+    "category" : "pro-wrestling-tonight, videos",
+    "date"     : "October 31, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chicagoland Championship Wrestling",
+    "author-url": "authors/chicagoland-championship-wrestling"
 
   } ,
   
