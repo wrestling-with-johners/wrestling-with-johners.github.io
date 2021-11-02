@@ -54,14 +54,27 @@
   
   {
 
-    "title"    : "🔴 November 1st 2021 RAW Live Stream Watch Along Full Show Reaction.",
-    "url"      : "/da-call-up/videos/November-1st-2021-RAW-Live-Stream-Watch-Along-Full-Show-Reaction/",
-    "category" : "da-call-up, videos",
+    "title"    : "Guilmy Talks Cryptids The Thunderbird",
+    "url"      : "/guilmy-talks/Guilmy-Talks-Cryptids-The-Thunderbird/",
+    "category" : "guilmy-talks",
     "date"     : "November 02, 2021",
     "excerpt"  : " ",
     
-    "author"   : "DA CALL UP",
-    "author-url": "authors/da-call-up"
+    "author"   : "Justin Guilmette",
+    "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "Steve Off Interview",
+    "url"      : "/bob-culture/videos/Steve-Off-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "November 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
 
   } ,
   
@@ -153,6 +166,19 @@
     
     "author"   : "Scottish Wrestling Network",
     "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "🔴 November 1st 2021 RAW Live Stream Watch Along Full Show Reaction.",
+    "url"      : "/da-call-up/videos/November-1st-2021-RAW-Live-Stream-Watch-Along-Full-Show-Reaction/",
+    "category" : "da-call-up, videos",
+    "date"     : "November 01, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "DA CALL UP",
+    "author-url": "authors/da-call-up"
 
   } ,
   
