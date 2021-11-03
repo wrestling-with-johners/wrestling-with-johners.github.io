@@ -15,19 +15,6 @@
   
   {
 
-    "title"    : "This Week in History Episode #46: October 29- November 4",
-    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-46-October-29-November-4/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "November 03, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
-
-  } ,
-  
-  {
-
     "title"    : "Mandy Rose Addresses Her Victory at Halloween Havoc | WWE NXT 2.0 Highlights",
     "url"      : "/rope-break/videos/Mandy-Rose-Addresses-Her-Victory-at-Halloween-Havoc-WWE-NXT-20-Highlights/",
     "category" : "rope-break, videos",
@@ -49,6 +36,19 @@
     
     "author"   : "The Power Hour",
     "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
+    "title"    : "Guilmy and Reluctant Ryan Talk all things Aew",
+    "url"      : "/guilmy-talks/Guilmy-and-Reluctant-Ryan-Talk-all-things-Aew/",
+    "category" : "guilmy-talks",
+    "date"     : "November 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Justin Guilmette",
+    "author-url": "authors/justin-guilmette"
 
   } ,
   
@@ -127,6 +127,19 @@
     
     "author"   : "Shootin' Sh*t Podcast!",
     "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
+    "title"    : "This Week in History Episode #46: October 29- November 4",
+    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-46-October-29-November-4/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "November 02, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
