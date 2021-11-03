@@ -41,6 +41,32 @@
   
   {
 
+    "title"    : "VIDCAST 73! Featuring Tyler Aero",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-73-Featuring-Tyler-Aero/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "November 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 218! My Conversation with Tyler Aero",
+    "url"      : "/straight-talk-wrestling/Episode-218-My-Conversation-with-Tyler-Aero/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "November 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 30 : Juken&#39;s Full PW4U Retrospective",
     "url"      : "/snap-crackle-and-cheap-pops/Episode-30-Jukens-Full-PW4U-Retrospective/",
     "category" : "snap-crackle-and-cheap-pops",
@@ -166,19 +192,6 @@
     
     "author"   : "Toilet-Side Wrestling Talk",
     "author-url": "authors/toilet-side-wrestling-talk"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 73! Featuring Tyler Aero",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-73-Featuring-Tyler-Aero/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "November 02, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
