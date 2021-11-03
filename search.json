@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "GREGORY IRON - WHAT DO YOU CALL IT? PODCAST!",
+    "url"      : "/what-do-you-call-it/GREGORY-IRON-WHAT-DO-YOU-CALL-IT-PODCAST/",
+    "category" : "what-do-you-call-it",
+    "date"     : "November 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
     "title"    : "It&#39;s Road Wild 97 Bay Bay",
     "url"      : "/such-good-shoot/Its-Road-Wild-97-Bay-Bay/",
     "category" : "such-good-shoot",
@@ -101,6 +114,19 @@
     
     "author"   : "Justin Guilmette",
     "author-url": "authors/justin-guilmette"
+
+  } ,
+  
+  {
+
+    "title"    : "FORMER WWE SUPERSTAR TO MAKE AEW DEBUT TONIGHT ON DYNAMITE",
+    "url"      : "/alliance-pro-wrestling-network/videos/FORMER-WWE-SUPERSTAR-TO-MAKE-AEW-DEBUT-TONIGHT-ON-DYNAMITE/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "November 03, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
