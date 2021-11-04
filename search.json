@@ -54,6 +54,19 @@
   
   {
 
+    "title"    : "The Rumor Report",
+    "url"      : "/da-call-up/The-Rumor-Report/",
+    "category" : "da-call-up",
+    "date"     : "November 04, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "DA CALL UP",
+    "author-url": "authors/da-call-up"
+
+  } ,
+  
+  {
+
     "title"    : "MIKE &#39;MADDOG&#39; ANGUS - WHAT DO YOU CALL IT? PODCAST!",
     "url"      : "/what-do-you-call-it/MIKE-MADDOG-ANGUS-WHAT-DO-YOU-CALL-IT-PODCAST/",
     "category" : "what-do-you-call-it",
