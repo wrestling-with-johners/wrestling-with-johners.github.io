@@ -106,6 +106,32 @@
   
   {
 
+    "title"    : "SWN Podcast | with Soldato",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Soldato/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "November 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Soldato",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Soldato/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "November 05, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 132: Survivor Series 1997",
     "url"      : "/ringside-rant/Episode-132-Survivor-Series-1997/",
     "category" : "ringside-rant",
