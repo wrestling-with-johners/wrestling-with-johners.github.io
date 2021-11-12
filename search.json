@@ -67,6 +67,32 @@
   
   {
 
+    "title"    : "Tea and Tights - Special: Interview With Maverick Mayhew",
+    "url"      : "/interviews/tea-and-tights/Tea-and-Tights-Special-Interview-With-Maverick-Mayhew/",
+    "category" : "interviews, tea-and-tights",
+    "date"     : "November 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "SGS Takeover Time machine R E S P E C T",
+    "url"      : "/such-good-shoot/videos/SGS-Takeover-Time-machine-R-E-S-P-E-C-T/",
+    "category" : "such-good-shoot, videos",
+    "date"     : "November 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "Ontario Indy Road Trip  November 12 28",
     "url"      : "/scumbags-of-wrestling/videos/Ontario-Indy-Road-Trip-November-12-28/",
     "category" : "scumbags-of-wrestling, videos",
@@ -75,6 +101,45 @@
     
     "author"   : "Scumbags of Wrestling Podcast",
     "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Ontario Indy Road Trip: November 12-28",
+    "url"      : "/scumbags-of-wrestling/Ontario-Indy-Road-Trip-November-1228/",
+    "category" : "scumbags-of-wrestling",
+    "date"     : "November 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Connor Molloy",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Connor-Molloy/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "November 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Connor Molloy",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Connor-Molloy/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "November 12, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
 
   } ,
   
