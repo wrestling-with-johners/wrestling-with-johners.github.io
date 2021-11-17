@@ -93,6 +93,19 @@
   
   {
 
+    "title"    : "WWE Survivor Series Supershow",
+    "url"      : "/its-my-wrestling/WWE-Survivor-Series-Supershow/",
+    "category" : "its-my-wrestling",
+    "date"     : "November 17, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "Steve Monsta Mack Interview",
     "url"      : "/bob-culture/videos/Steve-Monsta-Mack-Interview/",
     "category" : "bob-culture, videos",
