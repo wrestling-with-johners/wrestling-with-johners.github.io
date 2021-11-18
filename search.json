@@ -28,14 +28,27 @@
   
   {
 
-    "title"    : "MLW REWIND! Rerviewing WAR CHAMBER!",
-    "url"      : "/straight-talk-wrestling/videos/MLW-REWIND-Rerviewing-WAR-CHAMBER/",
+    "title"    : "MLW REWIND! Reviewing WAR CHAMBER!",
+    "url"      : "/straight-talk-wrestling/videos/MLW-REWIND-Reviewing-WAR-CHAMBER/",
     "category" : "straight-talk-wrestling, videos",
     "date"     : "November 18, 2021",
     "excerpt"  : " ",
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "This Week in History Episode #48: November 12-18",
+    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-48-November-1218/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "November 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
@@ -452,19 +465,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "This Week in History Episode #48: November 12-18",
-    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-Episode-48-November-1218/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "November 15, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
