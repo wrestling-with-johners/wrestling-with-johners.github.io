@@ -132,6 +132,19 @@
   
   {
 
+    "title"    : "Episode 134: Jeff Jarrett",
+    "url"      : "/ringside-rant/Episode-134-Jeff-Jarrett/",
+    "category" : "ringside-rant",
+    "date"     : "November 19, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
     "title"    : "Leva Bates vs Heidi Howitzer vs Heather Monroe. TABLES MATCH!",
     "url"      : "/lucha-libre-and-laughs/videos/Leva-Bates-vs-Heidi-Howitzer-vs-Heather-Monroe-TABLES-MATCH/",
     "category" : "lucha-libre-and-laughs, videos",
@@ -223,8 +236,8 @@
   
   {
 
-    "title"    : "WWE cuts 8 stars, including John Morrison, Hit Row, Tegan Knox. Is WWE about to get purchased?",
-    "url"      : "/chokeslam-wrestling-report/videos/WWE-cuts-8-stars-including-John-Morrison-Hit-Row-Tegan-Knox-Is-WWE-about-to-get-purchased/",
+    "title"    : "WWE cuts 8 more stars, including John Morrison, Hit Row, Tegan Knox. Is WWE about to get purchased?",
+    "url"      : "/chokeslam-wrestling-report/videos/WWE-cuts-8-more-stars-including-John-Morrison-Hit-Row-Tegan-Knox-Is-WWE-about-to-get-purchased/",
     "category" : "chokeslam-wrestling-report, videos",
     "date"     : "November 19, 2021",
     "excerpt"  : " ",
