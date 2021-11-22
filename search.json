@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Tea and Tights - Brit Wres Round Up: Episode 45",
+    "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-Episode-45/",
+    "category" : "tea-and-tights",
+    "date"     : "November 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Tea And Tights Podcast",
+    "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
     "title"    : "Tea and Tights - Brit Wres Round Up 44",
     "url"      : "/tea-and-tights/Tea-and-Tights-Brit-Wres-Round-Up-44/",
     "category" : "tea-and-tights",
@@ -10,6 +23,45 @@
     
     "author"   : "Tea And Tights Podcast",
     "author-url": "authors/tea-and-tights"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Ian Ambrose",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Ian-Ambrose/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "November 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Ian Ambrose",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Ian-Ambrose/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "November 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "Roman Reigns vs Big E | WWE Survivor Series 2021 Highlights",
+    "url"      : "/rope-break/videos/Roman-Reigns-vs-Big-E-WWE-Survivor-Series-2021-Highlights/",
+    "category" : "rope-break, videos",
+    "date"     : "November 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Rope Break",
+    "author-url": "authors/rope-break"
 
   } ,
   
