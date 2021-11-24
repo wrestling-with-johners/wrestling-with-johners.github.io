@@ -171,6 +171,32 @@
   
   {
 
+    "title"    : "Quiz My Ass Club Ep. 2",
+    "url"      : "/its-my-wrestling/videos/Quiz-My-Ass-Club-Ep-2/",
+    "category" : "its-my-wrestling, videos",
+    "date"     : "November 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Quiz my Ass Club Ep. 2",
+    "url"      : "/its-my-wrestling/Quiz-my-Ass-Club-Ep-2/",
+    "category" : "its-my-wrestling",
+    "date"     : "November 24, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "BCW‘s Anthony Cole Interview",
     "url"      : "/bob-culture/interviews/BCWs-Anthony-Cole-Interview/",
     "category" : "bob-culture, interviews",
