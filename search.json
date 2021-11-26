@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "RHIO Interview - Wrestling With Johners LIVE!",
+    "url"      : "/videos/wrestling-with-johners/RHIO-Interview-Wrestling-With-Johners-LIVE/",
+    "category" : "videos, wrestling-with-johners",
+    "date"     : "November 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "John Scott",
+    "author-url": "authors/john"
+
+  } ,
+  
+  {
+
     "title"    : "MLW REWIND! Reviewing the thanksgiving day special",
     "url"      : "/straight-talk-wrestling/videos/MLW-REWIND-Reviewing-the-thanksgiving-day-special/",
     "category" : "straight-talk-wrestling, videos",
@@ -23,6 +36,19 @@
     
     "author"   : "Rope Break",
     "author-url": "authors/rope-break"
+
+  } ,
+  
+  {
+
+    "title"    : "JACQUES ROUGEAU Explains LE SPECTACLE FAMILIAL JACQUES ROUGEAU &amp; Wants To Set The Record Straight! JEREMY PROPHET",
+    "url"      : "/jofo-in-the-ring/JACQUES-ROUGEAU-Explains-LE-SPECTACLE-FAMILIAL-JACQUES-ROUGEAU-Wants-To-Set-The-Record-Straight-JEREMY-PROPHET/",
+    "category" : "jofo-in-the-ring",
+    "date"     : "November 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
 
   } ,
   
