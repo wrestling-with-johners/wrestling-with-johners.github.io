@@ -41,32 +41,6 @@
   
   {
 
-    "title"    : "the journey to season 1 vanguard",
-    "url"      : "/kyles-wrestling/videos/the-journey-to-season-1-vanguard/",
-    "category" : "kyles-wrestling, videos",
-    "date"     : "December 08, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Kyle's Wrestling",
-    "author-url": "authors/kyles-wrestling"
-
-  } ,
-  
-  {
-
-    "title"    : "road to season 1 vanguard",
-    "url"      : "/kyles-wrestling/videos/road-to-season-1-vanguard/",
-    "category" : "kyles-wrestling, videos",
-    "date"     : "December 08, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Kyle's Wrestling",
-    "author-url": "authors/kyles-wrestling"
-
-  } ,
-  
-  {
-
     "title"    : "JAZZ GETTING HEAT FROM BOOKER T ON HER WWE DEBUT | JAZZ FEMALE FIGHTING PHENOM WWE DEBUT ENTRANCE",
     "url"      : "/jofo-in-the-ring/JAZZ-GETTING-HEAT-FROM-BOOKER-T-ON-HER-WWE-DEBUT-JAZZ-FEMALE-FIGHTING-PHENOM-WWE-DEBUT-ENTRANCE/",
     "category" : "jofo-in-the-ring",
@@ -166,6 +140,32 @@
     
     "author"   : "Shootin' Sh*t Podcast!",
     "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
+    "title"    : "the journey to season 1 vanguard",
+    "url"      : "/kyles-wrestling/videos/the-journey-to-season-1-vanguard/",
+    "category" : "kyles-wrestling, videos",
+    "date"     : "December 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Kyle's Wrestling",
+    "author-url": "authors/kyles-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "road to season 1 vanguard",
+    "url"      : "/kyles-wrestling/videos/road-to-season-1-vanguard/",
+    "category" : "kyles-wrestling, videos",
+    "date"     : "December 07, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Kyle's Wrestling",
+    "author-url": "authors/kyles-wrestling"
 
   } ,
   
