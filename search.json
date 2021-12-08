@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "The Power Hour w:Selene Grey",
+    "url"      : "/power-hour/videos/The-Power-Hour-wSelene-Grey/",
+    "category" : "power-hour, videos",
+    "date"     : "December 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "The Power Hour",
+    "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
     "title"    : "the journey to season 1 vanguard",
     "url"      : "/kyles-wrestling/videos/the-journey-to-season-1-vanguard/",
     "category" : "kyles-wrestling, videos",
@@ -10,6 +23,19 @@
     
     "author"   : "Kyle's Wrestling",
     "author-url": "authors/kyles-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "EP 60 State of Pro Wrestling",
+    "url"      : "/chaos-theory/EP-60-State-of-Pro-Wrestling/",
+    "category" : "chaos-theory",
+    "date"     : "December 08, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chaos Theory Podcast",
+    "author-url": "authors/chaos-theory"
 
   } ,
   
