@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "VIDCAST 79! Featuring George The Iceman",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-79-Featuring-George-The-Iceman/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "December 15, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 224! My conversation with George The ICEMAN of Destiny Wrestling",
     "url"      : "/straight-talk-wrestling/Episode-224-My-conversation-with-George-The-ICEMAN-of-Destiny-Wrestling/",
     "category" : "straight-talk-wrestling",
@@ -270,19 +283,6 @@
     
     "author"   : "Bucklebomb Entertainment",
     "author-url": "authors/bucklebomb-entertainment"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 79! Featuring George The Iceman",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-79-Featuring-George-The-Iceman/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "December 12, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
