@@ -54,6 +54,32 @@
   
   {
 
+    "title"    : "This Week in History:  December 10-16",
+    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-December-1016/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "December 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "This Week in History: December 10-16",
+    "url"      : "/scumbags-of-wrestling/This-Week-in-History-December-1016/",
+    "category" : "scumbags-of-wrestling",
+    "date"     : "December 16, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "Hangman Adam Page vs Bryan Danielson Title Match | AEW Winter Is Coming 2021 Highlights",
     "url"      : "/rope-break/videos/Hangman-Adam-Page-vs-Bryan-Danielson-Title-Match-AEW-Winter-Is-Coming-2021-Highlights/",
     "category" : "rope-break, videos",
@@ -179,19 +205,6 @@
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
-
-  } ,
-  
-  {
-
-    "title"    : "This Week in History:  December 10-16",
-    "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-December-1016/",
-    "category" : "scumbags-of-wrestling, videos",
-    "date"     : "December 15, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Scumbags of Wrestling Podcast",
-    "author-url": "authors/scumbags-of-wrestling"
 
   } ,
   
