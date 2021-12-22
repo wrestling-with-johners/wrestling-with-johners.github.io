@@ -28,9 +28,35 @@
   
   {
 
+    "title"    : "Vidcast 80! Featuring PUF",
+    "url"      : "/straight-talk-wrestling/videos/Vidcast-80-Featuring-PUF/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "December 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "5 QUESTIONS! Featuring Divya",
     "url"      : "/straight-talk-wrestling/videos/5-QUESTIONS-Featuring-Divya/",
     "category" : "straight-talk-wrestling, videos",
+    "date"     : "December 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 225! My conversation with PUF",
+    "url"      : "/straight-talk-wrestling/Episode-225-My-conversation-with-PUF/",
+    "category" : "straight-talk-wrestling",
     "date"     : "December 22, 2021",
     "excerpt"  : " ",
     
@@ -413,19 +439,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "Vidcast 80! Featuring PUF",
-    "url"      : "/straight-talk-wrestling/videos/Vidcast-80-Featuring-PUF/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "December 19, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
