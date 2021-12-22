@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "Live with Restream",
+    "url"      : "/kyles-wrestling/videos/Live-with-Restream/",
+    "category" : "kyles-wrestling, videos",
+    "date"     : "December 22, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Kyle's Wrestling",
+    "author-url": "authors/kyles-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "testing",
     "url"      : "/da-call-up/videos/testing/",
     "category" : "da-call-up, videos",
