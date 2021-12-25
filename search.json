@@ -67,6 +67,19 @@
   
   {
 
+    "title"    : "Christmas",
+    "url"      : "/death-match-russell/videos/Christmas/",
+    "category" : "death-match-russell, videos",
+    "date"     : "December 25, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Death Match Russell Podcast",
+    "author-url": "authors/death-match-russell"
+
+  } ,
+  
+  {
+
     "title"    : "JC Storm Interview",
     "url"      : "/bob-culture/videos/JC-Storm-Interview/",
     "category" : "bob-culture, videos",
