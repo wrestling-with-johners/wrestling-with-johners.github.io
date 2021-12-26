@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "CCW Pro Wrestling Tonight: Episode 38: Paragon",
+    "url"      : "/pro-wrestling-tonight/videos/CCW-Pro-Wrestling-Tonight-Episode-38-Paragon/",
+    "category" : "pro-wrestling-tonight, videos",
+    "date"     : "December 26, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Chicagoland Championship Wrestling",
+    "author-url": "authors/chicagoland-championship-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Podcast Christmas Special | Moviemania: Ryan Riley vs Connor Molloy",
     "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-Christmas-Special-Moviemania-Ryan-Riley-vs-Connor-Molloy/",
     "category" : "scottish-wrestling-network, videos",
@@ -36,19 +49,6 @@
     
     "author"   : "Scottish Wrestling Network",
     "author-url": "authors/scottish-wrestling-network"
-
-  } ,
-  
-  {
-
-    "title"    : "CCW Pro Wrestling Tonight: Episode 38: Paragon",
-    "url"      : "/pro-wrestling-tonight/videos/CCW-Pro-Wrestling-Tonight-Episode-38-Paragon/",
-    "category" : "pro-wrestling-tonight, videos",
-    "date"     : "December 25, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "Chicagoland Championship Wrestling",
-    "author-url": "authors/chicagoland-championship-wrestling"
 
   } ,
   
