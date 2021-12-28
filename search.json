@@ -28,8 +28,8 @@
   
   {
 
-    "title"    : "Episode 18",
-    "url"      : "/shootin-sht/videos/Episode-18/",
+    "title"    : "Episode 18: The Shootin’ Sh*t! Year End Extravaganza!!!",
+    "url"      : "/shootin-sht/videos/Episode-18-The-Shootin-Sht-Year-End-Extravaganza/",
     "category" : "shootin-sht, videos",
     "date"     : "December 28, 2021",
     "excerpt"  : " ",
@@ -43,6 +43,19 @@
 
     "title"    : "New Freestyle Today At 5pm!#freestyle #music #rap #halfdecent #ukhiphop #ukrap #rapper #london",
     "url"      : "/half-decent/videos/New-Freestyle-Today-At-5pmfreestyle-music-rap-halfdecent-ukhiphop-ukrap-rapper-london/",
+    "category" : "half-decent, videos",
+    "date"     : "December 28, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "Half Decent",
+    "author-url": "authors/half-decent"
+
+  } ,
+  
+  {
+
+    "title"    : "Dangerous Freestyle [Produced By Sentury Status] #feestyle #rap #ukhiphop #rapper #bombap #wutang",
+    "url"      : "/half-decent/videos/Dangerous-Freestyle-Produced-By-Sentury-Status-feestyle-rap-ukhiphop-rapper-bombap-wutang/",
     "category" : "half-decent, videos",
     "date"     : "December 28, 2021",
     "excerpt"  : " ",
