@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Vidcast 82! Featuring the Renegade Twins Charlette and Robyn Renegade",
+    "url"      : "/straight-talk-wrestling/videos/Vidcast-82-Featuring-the-Renegade-Twins-Charlette-and-Robyn-Renegade/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "January 01, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "5 QUESTIONS! Featuring The Renegade Twins Charlette and Robyn Renegade",
     "url"      : "/straight-talk-wrestling/videos/5-QUESTIONS-Featuring-The-Renegade-Twins-Charlette-and-Robyn-Renegade/",
     "category" : "straight-talk-wrestling, videos",
@@ -23,6 +36,32 @@
     
     "author"   : "Ringside Rant",
     "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
+    "title"    : "WWE&#39;s Jazz Talks Diversity In Wrestling",
+    "url"      : "/its-my-wrestling/videos/WWEs-Jazz-Talks-Diversity-In-Wrestling/",
+    "category" : "its-my-wrestling, videos",
+    "date"     : "January 01, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "WWE&#39;s Jazz Talks Diversity In Wrestling",
+    "url"      : "/its-my-wrestling/WWEs-Jazz-Talks-Diversity-In-Wrestling/",
+    "category" : "its-my-wrestling",
+    "date"     : "January 01, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
 
   } ,
   
