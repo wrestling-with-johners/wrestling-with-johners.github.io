@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Jon Alba",
+    "url"      : "/ringside-rant/Jon-Alba/",
+    "category" : "ringside-rant",
+    "date"     : "January 01, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 62 AAW unstoppable",
     "url"      : "/chaos-theory/Episode-62-AAW-unstoppable/",
     "category" : "chaos-theory",
