@@ -2,8 +2,8 @@
   
   {
 
-    "title"    : "WWE Day 1 Review - ROMAN REIGNS COVID POSITIVE! BROCK LESNAR WINS WWE CHAMPIONSHIP",
-    "url"      : "/da-call-up/videos/WWE-Day-1-Review-ROMAN-REIGNS-COVID-POSITIVE-BROCK-LESNAR-WINS-WWE-CHAMPIONSHIP/",
+    "title"    : "WWE Day 1 ReCap  - ROMAN REIGNS COVID POSITIVE! HE’S OUT AND  BROCK LESNAR WINS WWE CHAMPIONSHIP",
+    "url"      : "/da-call-up/videos/WWE-Day-1-ReCap-ROMAN-REIGNS-COVID-POSITIVE-HES-OUT-AND-BROCK-LESNAR-WINS-WWE-CHAMPIONSHIP/",
     "category" : "da-call-up, videos",
     "date"     : "January 02, 2022",
     "excerpt"  : " ",
@@ -43,6 +43,19 @@
 
     "title"    : "BCP300 for Feeding America",
     "url"      : "/bob-culture/videos/BCP300-for-Feeding-America/",
+    "category" : "bob-culture, videos",
+    "date"     : "January 02, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "BCP 300 For Feeding America",
+    "url"      : "/bob-culture/videos/BCP-300-For-Feeding-America/",
     "category" : "bob-culture, videos",
     "date"     : "January 02, 2022",
     "excerpt"  : " ",
