@@ -41,6 +41,45 @@
   
   {
 
+    "title"    : "VIDCAST 83! Featuring Kobe Durst",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-83-Featuring-Kobe-Durst/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "January 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 227! Another Conversation with Kobe Durst",
+    "url"      : "/straight-talk-wrestling/Episode-227-Another-Conversation-with-Kobe-Durst/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "January 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 20: The inmates are running the Asylum",
+    "url"      : "/shootin-sht/videos/Episode-20-The-inmates-are-running-the-Asylum/",
+    "category" : "shootin-sht, videos",
+    "date"     : "January 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 20: The inmates are running the Asylum",
     "url"      : "/shootin-sht/Episode-20-The-inmates-are-running-the-Asylum/",
     "category" : "shootin-sht",
@@ -88,6 +127,19 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "Adam Pearce Says Drew McInfart - Throwback",
+    "url"      : "/its-my-wrestling/videos/Adam-Pearce-Says-Drew-McInfart-Throwback/",
+    "category" : "its-my-wrestling, videos",
+    "date"     : "January 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "It’s My Wrestling Podcast",
+    "author-url": "authors/its-my-wrestling"
 
   } ,
   
@@ -413,19 +465,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 83! Featuring Kobe Durst",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-83-Featuring-Kobe-Durst/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "January 09, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
