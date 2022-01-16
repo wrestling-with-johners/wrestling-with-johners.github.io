@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "VIDCAST 84! Featuring Jonny Deluca",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-84-Featuring-Jonny-Deluca/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "January 16, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "SWN Live! Special: SWN Year End Awards 2021 Results",
     "url"      : "/scottish-wrestling-network/SWN-Live-Special-SWN-Year-End-Awards-2021-Results/",
     "category" : "scottish-wrestling-network",
@@ -23,6 +36,19 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "MLW sues WWE, WWE doors of lies, AEW Dynamite &amp; Rampage review and wrestling news and rumors",
+    "url"      : "/chokeslam-wrestling-report/MLW-sues-WWE-WWE-doors-of-lies-AEW-Dynamite-Rampage-review-and-wrestling-news-and-rumors/",
+    "category" : "chokeslam-wrestling-report",
+    "date"     : "January 16, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Chokeslam Wrestling Report",
+    "author-url": "authors/chokeslam-wrestling-report"
 
   } ,
   
