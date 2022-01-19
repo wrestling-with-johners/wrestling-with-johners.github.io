@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "The Power Hour Triple Threat Edition w:Travis T",
+    "url"      : "/power-hour/videos/The-Power-Hour-Triple-Threat-Edition-wTravis-T/",
+    "category" : "power-hour, videos",
+    "date"     : "January 19, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Power Hour",
+    "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
     "title"    : "TYSON MADDUX talks AEW Dark Match, NXT Tryout, GSW, Team Taz &amp; Aaron Rodgers",
     "url"      : "/jofo-in-the-ring/videos/TYSON-MADDUX-talks-AEW-Dark-Match-NXT-Tryout-GSW-Team-Taz-Aaron-Rodgers/",
     "category" : "jofo-in-the-ring, videos",
@@ -23,6 +36,45 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "Death Match Russell PodCast Ep #408 With Indy Female Wrestler Myka Madrid Tune in!",
+    "url"      : "/death-match-russell/videos/Death-Match-Russell-PodCast-Ep-408-With-Indy-Female-Wrestler-Myka-Madrid-Tune-in/",
+    "category" : "death-match-russell, videos",
+    "date"     : "January 19, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Death Match Russell Podcast",
+    "author-url": "authors/death-match-russell"
+
+  } ,
+  
+  {
+
+    "title"    : "Death Match Russell PodCast Ep #408 Live With Indy Female Wrestler Myka Madrid Tune in!",
+    "url"      : "/death-match-russell/Death-Match-Russell-PodCast-Ep-408-Live-With-Indy-Female-Wrestler-Myka-Madrid-Tune-in/",
+    "category" : "death-match-russell",
+    "date"     : "January 19, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Death Match Russell Podcast",
+    "author-url": "authors/death-match-russell"
+
+  } ,
+  
+  {
+
+    "title"    : "Buddy Matthews is returning to NJPW and his opponent is announced",
+    "url"      : "/alliance-pro-wrestling-network/videos/Buddy-Matthews-is-returning-to-NJPW-and-his-opponent-is-announced/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "January 19, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
