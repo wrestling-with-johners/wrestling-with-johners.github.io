@@ -80,6 +80,19 @@
   
   {
 
+    "title"    : "SWN Podcast | with The Struthers Sisters",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-The-Struthers-Sisters/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "January 21, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 143: January 24, 2005 RAW",
     "url"      : "/ringside-rant/Episode-143-January-24-2005-RAW/",
     "category" : "ringside-rant",
@@ -140,6 +153,19 @@
     
     "author"   : "WHAT DO YOU CALL IT? PODCAST!",
     "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
+    "title"    : "TakeOver Time Machine - Dallas",
+    "url"      : "/such-good-shoot/videos/TakeOver-Time-Machine-Dallas/",
+    "category" : "such-good-shoot, videos",
+    "date"     : "January 20, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
 
   } ,
   
