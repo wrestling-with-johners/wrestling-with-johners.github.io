@@ -80,8 +80,47 @@
   
   {
 
+    "title"    : "Bucklebomb Live 1/26",
+    "url"      : "/bucklebomb-entertainment/videos/Bucklebomb-Live-126/",
+    "category" : "bucklebomb-entertainment, videos",
+    "date"     : "January 27, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Bucklebomb Entertainment",
+    "author-url": "authors/bucklebomb-entertainment"
+
+  } ,
+  
+  {
+
     "title"    : "MLW news and notes",
     "url"      : "/alliance-pro-wrestling-network/videos/MLW-news-and-notes/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "January 27, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Johnny Gargano/AEW update",
+    "url"      : "/alliance-pro-wrestling-network/videos/Johnny-GarganoAEW-update/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "January 27, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Impact Wrestling on AXS TV preview for Jan 27 2022",
+    "url"      : "/alliance-pro-wrestling-network/videos/Impact-Wrestling-on-AXS-TV-preview-for-Jan-27-2022/",
     "category" : "alliance-pro-wrestling-network, videos",
     "date"     : "January 27, 2022",
     "excerpt"  : " ",
