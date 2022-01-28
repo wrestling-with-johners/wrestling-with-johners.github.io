@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "SGS Goes Extreme - Main Event",
+    "url"      : "/such-good-shoot/SGS-Goes-Extreme-Main-Event/",
+    "category" : "such-good-shoot",
+    "date"     : "January 28, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "This Week in History: January 21-27",
     "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-January-2127/",
     "category" : "scumbags-of-wrestling, videos",
@@ -75,6 +88,19 @@
     
     "author"   : "JOFO In The Ring",
     "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "Royal Rumble 2022 Picks",
+    "url"      : "/bob-culture/videos/Royal-Rumble-2022-Picks/",
+    "category" : "bob-culture, videos",
+    "date"     : "January 28, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
 
   } ,
   
