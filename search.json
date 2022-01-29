@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "Ryan Talbot ",
+    "url"      : "/ringside-rant/Ryan-Talbot/",
+    "category" : "ringside-rant",
+    "date"     : "January 29, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
     "title"    : "The Chokeslam Wrestling Report: Cody backstage heat, has not sign w/AEW. Will he be at the Rumble?",
     "url"      : "/chokeslam-wrestling-report/videos/The-Chokeslam-Wrestling-Report-Cody-backstage-heat-has-not-sign-wAEW-Will-he-be-at-the-Rumble/",
     "category" : "chokeslam-wrestling-report, videos",
@@ -62,6 +75,19 @@
     
     "author"   : "Chaos Theory Podcast",
     "author-url": "authors/chaos-theory"
+
+  } ,
+  
+  {
+
+    "title"    : "Why Impact Wrestling MUST sign Blake Christian",
+    "url"      : "/alliance-pro-wrestling-network/videos/Why-Impact-Wrestling-MUST-sign-Blake-Christian/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "January 29, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
