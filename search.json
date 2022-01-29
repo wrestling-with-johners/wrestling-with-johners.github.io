@@ -41,6 +41,32 @@
   
   {
 
+    "title"    : "WEE Talk Show - Robbo Meets SWN",
+    "url"      : "/scottish-wrestling-network/WEE-Talk-Show-Robbo-Meets-SWN/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "January 29, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "Steve Maclin ",
+    "url"      : "/ringside-rant/Steve-Maclin/",
+    "category" : "ringside-rant",
+    "date"     : "January 29, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
     "title"    : "Ryan Talbot ",
     "url"      : "/ringside-rant/Ryan-Talbot/",
     "category" : "ringside-rant",
