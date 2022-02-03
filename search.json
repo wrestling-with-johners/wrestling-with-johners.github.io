@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "Episode 22: Saturday night’s alright.. for a FIGHT",
+    "url"      : "/shootin-sht/Episode-22-Saturday-nights-alright-for-a-FIGHT/",
+    "category" : "shootin-sht",
+    "date"     : "February 03, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
     "title"    : "AEW Dynamite 2/2/2022 Review &amp; Highlights | CM PUNK vs MJF",
     "url"      : "/jofo-in-the-ring/AEW-Dynamite-222022-Review-Highlights-CM-PUNK-vs-MJF/",
     "category" : "jofo-in-the-ring",
@@ -121,6 +134,19 @@
 
     "title"    : "Kofi Kingston WWE Royal Rumble Botch",
     "url"      : "/jofo-in-the-ring/videos/Kofi-Kingston-WWE-Royal-Rumble-Botch/",
+    "category" : "jofo-in-the-ring, videos",
+    "date"     : "February 02, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "AEW Dynamite 2/2/2022 Review &amp; Highlights | CM PUNK vs MJF",
+    "url"      : "/jofo-in-the-ring/videos/AEW-Dynamite-222022-Review-Highlights-CM-PUNK-vs-MJF/",
     "category" : "jofo-in-the-ring, videos",
     "date"     : "February 02, 2022",
     "excerpt"  : " ",
