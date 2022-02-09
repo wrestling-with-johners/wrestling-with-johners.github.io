@@ -2,6 +2,45 @@
   
   {
 
+    "title"    : "130. Greatest NXT Champions",
+    "url"      : "/world-elite/130-Greatest-NXT-Champions/",
+    "category" : "world-elite",
+    "date"     : "February 09, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "WORLD ELITE PODCAST",
+    "author-url": "authors/world-elite"
+
+  } ,
+  
+  {
+
+    "title"    : "VIDCAST 87! Featuring Krystal Moon",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-87-Featuring-Krystal-Moon/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "February 09, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "Episodde 231! My conversation with Krystal Moon",
+    "url"      : "/straight-talk-wrestling/Episodde-231-My-conversation-with-Krystal-Moon/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "February 09, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 23: Joey K is taking the Cleveland Browns to the Super Bowl",
     "url"      : "/shootin-sht/videos/Episode-23-Joey-K-is-taking-the-Cleveland-Browns-to-the-Super-Bowl/",
     "category" : "shootin-sht, videos",
@@ -465,19 +504,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 87! Featuring Krystal Moon",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-87-Featuring-Krystal-Moon/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "February 06, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
