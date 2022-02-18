@@ -2,9 +2,22 @@
   
   {
 
-    "title"    : "Ethan Edwards Interview (Odyssey Pro Wrestling) - Wrestling With Johners LIVE!",
-    "url"      : "/videos/wrestling-with-johners/Ethan-Edwards-Interview-Odyssey-Pro-Wrestling-Wrestling-With-Johners-LIVE/",
+    "title"    : "Ethan Edwards Interview (Odyssey Pro Wrestling)",
+    "url"      : "/videos/wrestling-with-johners/Ethan-Edwards-Interview-Odyssey-Pro-Wrestling/",
     "category" : "videos, wrestling-with-johners",
+    "date"     : "February 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "John Scott",
+    "author-url": "authors/john"
+
+  } ,
+  
+  {
+
+    "title"    : "Ep226 - Ethan Edwards Interview (Odyssey Pro Wrestling)",
+    "url"      : "/interviews/wrestling-with-johners/Ep226-Ethan-Edwards-Interview-Odyssey-Pro-Wrestling/",
+    "category" : "interviews, wrestling-with-johners",
     "date"     : "February 18, 2022",
     "excerpt"  : " ",
     
@@ -127,6 +140,19 @@
     
     "author"   : "Ringside Rant",
     "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
+    "title"    : "Interview with &#39;The Greatest Professional Wrestler to ever walk Planet Earth&#39; Tate Mayfairs",
+    "url"      : "/my-britwres-journey/videos/Interview-with-The-Greatest-Professional-Wrestler-to-ever-walk-Planet-Earth-Tate-Mayfairs/",
+    "category" : "my-britwres-journey, videos",
+    "date"     : "February 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "My Brit Wres Journey",
+    "author-url": "authors/my-britwres-journey"
 
   } ,
   
@@ -379,8 +405,8 @@
   
   {
 
-    "title"    : "Fred Ottman &quot;Shockmaster&quot; talks Stone Cold Steve Austin",
-    "url"      : "/jofo-in-the-ring/videos/Fred-Ottman-Shockmaster-talks-Stone-Cold-Steve-Austin/",
+    "title"    : "Fred Ottman &quot;Shockmaster&quot; on Stone Cold Steve Austin",
+    "url"      : "/jofo-in-the-ring/videos/Fred-Ottman-Shockmaster-on-Stone-Cold-Steve-Austin/",
     "category" : "jofo-in-the-ring, videos",
     "date"     : "February 17, 2022",
     "excerpt"  : " ",
