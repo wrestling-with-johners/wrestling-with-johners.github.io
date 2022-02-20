@@ -80,8 +80,34 @@
   
   {
 
+    "title"    : "Big Dust Interview",
+    "url"      : "/bob-culture/interviews/Big-Dust-Interview/",
+    "category" : "bob-culture, interviews",
+    "date"     : "February 20, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "What surprises will we see at Impact Wrestling’s No Surrender tonight?  Pre Show discussion",
     "url"      : "/alliance-pro-wrestling-network/videos/What-surprises-will-we-see-at-Impact-Wrestlings-No-Surrender-tonight-Pre-Show-discussion/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "February 20, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Impact Wrestling No Surrender Post Show Discussion",
+    "url"      : "/alliance-pro-wrestling-network/videos/Impact-Wrestling-No-Surrender-Post-Show-Discussion/",
     "category" : "alliance-pro-wrestling-network, videos",
     "date"     : "February 20, 2022",
     "excerpt"  : " ",
