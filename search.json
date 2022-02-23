@@ -223,6 +223,19 @@
   
   {
 
+    "title"    : "Smiley Interview",
+    "url"      : "/bob-culture/videos/Smiley-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "February 23, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "KAT SPENCER shares an uplifting story about CODY RHODES #NightmareFactory",
     "url"      : "/videos/what-do-you-call-it/KAT-SPENCER-shares-an-uplifting-story-about-CODY-RHODES-NightmareFactory/",
     "category" : "videos, what-do-you-call-it",
