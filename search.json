@@ -54,6 +54,19 @@
   
   {
 
+    "title"    : "VIDCAST 90! Featuring Matt Angel",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-90-Featuring-Matt-Angel/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "March 02, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Steven &amp; Brad’s Talk ‘n’ Wrestling - S2E4 with Avery Good, Professional Wrestler",
     "url"      : "/steven-brads-talk-n-wrestling/videos/Steven-Brads-Talk-n-Wrestling-S2E4-with-Avery-Good-Professional-Wrestler/",
     "category" : "steven-brads-talk-n-wrestling, videos",
@@ -764,19 +777,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 90! Featuring Matt Angel",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-90-Featuring-Matt-Angel/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "February 27, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
