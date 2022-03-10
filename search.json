@@ -16,6 +16,19 @@
   {
 
     "title"    : "Episode 26: Da Hot One has friends! Are you Elite?",
+    "url"      : "/shootin-sht/videos/Episode-26-Da-Hot-One-has-friends-Are-you-Elite/",
+    "category" : "shootin-sht, videos",
+    "date"     : "March 10, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 26: Da Hot One has friends! Are you Elite?",
     "url"      : "/shootin-sht/Episode-26-Da-Hot-One-has-friends-Are-you-Elite/",
     "category" : "shootin-sht",
     "date"     : "March 10, 2022",
@@ -192,6 +205,32 @@
     
     "author"   : "Death Match Russell Podcast",
     "author-url": "authors/death-match-russell"
+
+  } ,
+  
+  {
+
+    "title"    : "The Icon, Magic Interview",
+    "url"      : "/bob-culture/videos/The-Icon-Magic-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "March 10, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "The Icon, Magic",
+    "url"      : "/bob-culture/The-Icon-Magic/",
+    "category" : "bob-culture",
+    "date"     : "March 10, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
 
   } ,
   
