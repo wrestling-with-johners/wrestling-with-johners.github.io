@@ -28,6 +28,19 @@
   
   {
 
+    "title"    : "PPV Rearview - World War 3 1997 - No Russian",
+    "url"      : "/such-good-shoot/PPV-Rearview-World-War-3-1997-No-Russian/",
+    "category" : "such-good-shoot",
+    "date"     : "March 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Such Good Shoot",
+    "author-url": "authors/such-good-shoot"
+
+  } ,
+  
+  {
+
     "title"    : "This Week in History: March 11-17",
     "url"      : "/scumbags-of-wrestling/videos/This-Week-in-History-March-1117/",
     "category" : "scumbags-of-wrestling, videos",
@@ -49,6 +62,32 @@
     
     "author"   : "Scumbags of Wrestling Podcast",
     "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with The Sam Barbour Experience",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-The-Sam-Barbour-Experience/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "March 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with The Sam Barbour Experience",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-The-Sam-Barbour-Experience/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "March 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
 
   } ,
   
