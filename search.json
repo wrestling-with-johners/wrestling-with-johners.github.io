@@ -54,6 +54,19 @@
   
   {
 
+    "title"    : "Issue 1 - Shows of January 1-7, 2022",
+    "url"      : "/articles/Issue-1-Shows-of-January-1-7,-2022/",
+    "category" : "articles",
+    "date"     : "March 23, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Pro-Darin",
+    "author-url": "authors/pro-darin"
+
+  } ,
+  
+  {
+
     "title"    : "The Power Hour w:Counselor Erich Schultz",
     "url"      : "/power-hour/videos/The-Power-Hour-wCounselor-Erich-Schultz/",
     "category" : "power-hour, videos",
@@ -28537,7 +28550,7 @@
   
   {
 
-    "title"    : "ROH releases their talent, is this the end of the company, Impact and AEW end their working relationship, NJPW, WWE news! AEW DYnamite &amp; Rampage review",
+    "title"    : "ROH releases their talent, is this the end of the company, Impact and AEW end their working relationship, NJPW, WWE news! AEW Dynamite &amp; Rampage review",
     "url"      : "/chokeslam-wrestling-report/ROH-releases-their-talent-is-this-the-end-of-the-company-Impact-and-AEW-end-their-working-relationship-NJPW-WWE-news-AEW-DYnamite-Rampage-review/",
     "category" : "chokeslam-wrestling-report",
     "date"     : "October 31, 2021",
@@ -67277,7 +67290,7 @@
   
   {
 
-    "title"    : "The Alliance Pro Wrestling Network Reviews NJPW Road To Wrestling Dontaku Night 7!",
+    "title"    : "The Alliance Pro Wrestling Network reviews NJPW Road To Wrestling Dontaku Night 7!",
     "url"      : "/alliance-pro-wrestling-network/The-Alliance-Pro-Wrestling-Network-Reviews-NJPW-Road-To-Wrestling-Dontaku-Night-7/",
     "category" : "alliance-pro-wrestling-network",
     "date"     : "April 19, 2021",
@@ -67357,6 +67370,19 @@
 
     "title"    : "MLW Rewind episode 14",
     "url"      : "/straight-talk-wrestling/MLW-Rewind-episode-14/",
+    "category" : "straight-talk-wrestling",
+    "date"     : "April 18, 2021",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
+    "title"    : "MLW Rewind episode 14",
+    "url"      : "/straight-talk-wrestling/MLW-REWIND-EPISODE-14/",
     "category" : "straight-talk-wrestling",
     "date"     : "April 18, 2021",
     "excerpt"  : " ",
@@ -67454,19 +67480,6 @@
     
     "author"   : "WORLD ELITE PODCAST",
     "author-url": "authors/world-elite"
-
-  } ,
-  
-  {
-
-    "title"    : "MLW REWIND EPISODE 14",
-    "url"      : "/straight-talk-wrestling/MLW-REWIND-EPISODE-14/",
-    "category" : "straight-talk-wrestling",
-    "date"     : "April 17, 2021",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
@@ -69695,7 +69708,7 @@
   
   {
 
-    "title"    : "BCP Pre-Match Showdown Series:  Riley Shepard VS. The Vivacious Vicious Vicki",
+    "title"    : "BCP Pre-Match Showdown Series:  Riley Shepard Vs. The Vivacious Vicious Vicki",
     "url"      : "/bob-culture/BCP-PreMatch-Showdown-Series-Riley-Shepard-VS-The-Vivacious-Vicious-Vicki/",
     "category" : "bob-culture",
     "date"     : "April 07, 2021",
@@ -75480,7 +75493,7 @@
   
   {
 
-    "title"    : "MLW REWIND Episode 10",
+    "title"    : "MLW Rewind Episode 10",
     "url"      : "/straight-talk-wrestling/MLW-REWIND-Episode-10/",
     "category" : "straight-talk-wrestling",
     "date"     : "March 07, 2021",
