@@ -119,6 +119,19 @@
   
   {
 
+    "title"    : "kWo Present: Mania Madness",
+    "url"      : "/kwo/videos/kWo-Present-Mania-Madness/",
+    "category" : "kwo, videos",
+    "date"     : "March 25, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "kWo Wrestling Podcast",
+    "author-url": "authors/kwo"
+
+  } ,
+  
+  {
+
     "title"    : "Was AEW Dynamite Boring this week?",
     "url"      : "/jofo-in-the-ring/videos/Was-AEW-Dynamite-Boring-this-week/",
     "category" : "jofo-in-the-ring, videos",
@@ -192,6 +205,19 @@
     
     "author"   : "The Bob Culture Podcast",
     "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "Latest Jonathan Gresham/AEW update",
+    "url"      : "/alliance-pro-wrestling-network/videos/Latest-Jonathan-GreshamAEW-update/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "March 25, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
 
   } ,
   
