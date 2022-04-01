@@ -80,8 +80,34 @@
   
   {
 
+    "title"    : "Scumbags Prediction League: WrestleMania 38 Weekend",
+    "url"      : "/scumbags-of-wrestling/videos/Scumbags-Prediction-League-WrestleMania-38-Weekend/",
+    "category" : "scumbags-of-wrestling, videos",
+    "date"     : "April 01, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
     "title"    : "This Week in History: March 25-31",
     "url"      : "/scumbags-of-wrestling/This-Week-in-History-March-2531/",
+    "category" : "scumbags-of-wrestling",
+    "date"     : "April 01, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scumbags of Wrestling Podcast",
+    "author-url": "authors/scumbags-of-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Scumbags Prediction League: WrestleMania 38 Weekend",
+    "url"      : "/scumbags-of-wrestling/Scumbags-Prediction-League-WrestleMania-38-Weekend/",
     "category" : "scumbags-of-wrestling",
     "date"     : "April 01, 2022",
     "excerpt"  : " ",
