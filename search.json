@@ -28,6 +28,32 @@
   
   {
 
+    "title"    : "Slaps Heard Around The World",
+    "url"      : "/ringside-rant/Slaps-Heard-Around-The-World/",
+    "category" : "ringside-rant",
+    "date"     : "April 13, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
+    "title"    : "Slaps Heard Around The World",
+    "url"      : "/refin-it-up-with-brian-hebner/Slaps-Heard-Around-The-World/",
+    "category" : "refin-it-up-with-brian-hebner",
+    "date"     : "April 13, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "REFIN’ IT UP! with BRIAN HEBNER",
+    "author-url": "authors/refin-it-up-with-brian-hebner"
+
+  } ,
+  
+  {
+
     "title"    : "Issue 9 - Shows of February 26-March 4, 2022",
     "url"      : "/articles/Issue-9-Shows-of-February-26-March-4,-2022/",
     "category" : "articles",
@@ -69,6 +95,19 @@
 
     "title"    : "Patrick Brazeau talks &quot;What If&quot; he knocked out Justin Trudeau in the boxing match in 2012",
     "url"      : "/jofo-in-the-ring/videos/Patrick-Brazeau-talks-What-If-he-knocked-out-Justin-Trudeau-in-the-boxing-match-in-2012/",
+    "category" : "jofo-in-the-ring, videos",
+    "date"     : "April 13, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "JOFO In The Ring",
+    "author-url": "authors/jofo-in-the-ring"
+
+  } ,
+  
+  {
+
+    "title"    : "Channing Decker vs Rob Van Dam #shorts",
+    "url"      : "/jofo-in-the-ring/videos/Channing-Decker-vs-Rob-Van-Dam-shorts/",
     "category" : "jofo-in-the-ring, videos",
     "date"     : "April 13, 2022",
     "excerpt"  : " ",
