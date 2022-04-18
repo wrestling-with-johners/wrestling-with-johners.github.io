@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "SWN Podcast | with Connor Rose",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Connor-Rose/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "April 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Connor Rose",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Connor-Rose/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "April 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "Issue 15 - Shows of April 9-15, 2022",
     "url"      : "/articles/Issue-15-Shows-of-April-9-15,-2022/",
     "category" : "articles",
