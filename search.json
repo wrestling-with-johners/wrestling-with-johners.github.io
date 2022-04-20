@@ -80,9 +80,35 @@
   
   {
 
+    "title"    : "VIDCAST 99! Jesse Amato  MY MIND",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-99-Jesse-Amato-MY-MIND/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "April 20, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Steven &amp; Brad’s Talk ‘n’ Wrestling - S2E6",
     "url"      : "/steven-brads-talk-n-wrestling/videos/Steven-Brads-Talk-n-Wrestling-S2E6/",
     "category" : "steven-brads-talk-n-wrestling, videos",
+    "date"     : "April 20, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Steven & Brad’s Talk ‘n’ Wrestling",
+    "author-url": "authors/steven-brads-talk-n-wrestling"
+
+  } ,
+  
+  {
+
+    "title"    : "Steven &amp; Brad&#39;s Talk &#39;n&#39; Wrestling - S2E6",
+    "url"      : "/steven-brads-talk-n-wrestling/Steven-Brads-Talk-n-Wrestling-S2E6/",
+    "category" : "steven-brads-talk-n-wrestling",
     "date"     : "April 20, 2022",
     "excerpt"  : " ",
     
@@ -361,19 +387,6 @@
     
     "author"   : "Lewis Carlan",
     "author-url": "authors/lewis-carlan"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 99! Jesse Amato  MY MIND",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-99-Jesse-Amato-MY-MIND/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "April 17, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
