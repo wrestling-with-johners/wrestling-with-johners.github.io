@@ -67,6 +67,32 @@
   
   {
 
+    "title"    : "SWN Podcast | with Lad Chapman",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Lad-Chapman/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "April 22, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Lad Chapman",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Lad-Chapman/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "April 22, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "Moustache Mountain vs Smith &amp; Carter 2 Out of 3 Falls Tag Team Championship | WWE NXT UK Highlights",
     "url"      : "/rope-break/videos/Moustache-Mountain-vs-Smith-Carter-2-Out-of-3-Falls-Tag-Team-Championship-WWE-NXT-UK-Highlights/",
     "category" : "rope-break, videos",
@@ -101,6 +127,19 @@
     
     "author"   : "My Brit Wres Journey",
     "author-url": "authors/my-britwres-journey"
+
+  } ,
+  
+  {
+
+    "title"    : "Pro Wrestling Magic - Steve Off V. Alex Reiman Hype Package",
+    "url"      : "/bob-culture/videos/Pro-Wrestling-Magic-Steve-Off-V-Alex-Reiman-Hype-Package/",
+    "category" : "bob-culture, videos",
+    "date"     : "April 22, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
 
   } ,
   
