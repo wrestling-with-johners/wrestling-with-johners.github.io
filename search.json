@@ -28,6 +28,32 @@
   
   {
 
+    "title"    : "Lie, Cheat, and Stole our Hearts",
+    "url"      : "/ringside-rant/Lie-Cheat-and-Stole-our-Hearts/",
+    "category" : "ringside-rant",
+    "date"     : "April 27, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
+    "title"    : "Lie, Cheat, and Stole our Hearts",
+    "url"      : "/refin-it-up-with-brian-hebner/Lie-Cheat-and-Stole-our-Hearts/",
+    "category" : "refin-it-up-with-brian-hebner",
+    "date"     : "April 27, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "REFIN’ IT UP! with BRIAN HEBNER",
+    "author-url": "authors/refin-it-up-with-brian-hebner"
+
+  } ,
+  
+  {
+
     "title"    : "The Power Hour vs The Morning After",
     "url"      : "/power-hour/videos/The-Power-Hour-vs-The-Morning-After/",
     "category" : "power-hour, videos",
