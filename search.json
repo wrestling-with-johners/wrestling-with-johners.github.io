@@ -28,6 +28,19 @@
   
   {
 
+    "title"    : "VIDCAST 1OO! Featuring Anton Alexiev",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-1OO-Featuring-Anton-Alexiev/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "April 27, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Lie, Cheat, and Stole our Hearts",
     "url"      : "/ringside-rant/Lie-Cheat-and-Stole-our-Hearts/",
     "category" : "ringside-rant",
@@ -335,19 +348,6 @@
     
     "author"   : "John Scott",
     "author-url": "authors/john"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 1OO! Featuring Anton Alexiev",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-1OO-Featuring-Anton-Alexiev/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "April 24, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
