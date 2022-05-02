@@ -28,6 +28,32 @@
   
   {
 
+    "title"    : "SWN Podcast | with Leo McLean",
+    "url"      : "/scottish-wrestling-network/videos/SWN-Podcast-with-Leo-McLean/",
+    "category" : "scottish-wrestling-network, videos",
+    "date"     : "May 02, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
+    "title"    : "SWN Podcast | with Leo McLean",
+    "url"      : "/scottish-wrestling-network/SWN-Podcast-with-Leo-McLean/",
+    "category" : "scottish-wrestling-network",
+    "date"     : "May 02, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Scottish Wrestling Network",
+    "author-url": "authors/scottish-wrestling-network"
+
+  } ,
+  
+  {
+
     "title"    : "Issue 17 - Shows of April 23-29, 2022",
     "url"      : "/articles/Issue-17-Shows-of-April-23-29,-2022/",
     "category" : "articles",
