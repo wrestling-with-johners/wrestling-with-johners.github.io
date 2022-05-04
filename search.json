@@ -15,6 +15,32 @@
   
   {
 
+    "title"    : "The Most Electrifying Podcast",
+    "url"      : "/ringside-rant/The-Most-Electrifying-Podcast/",
+    "category" : "ringside-rant",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
+    "title"    : "The Most Electrifying Podcast",
+    "url"      : "/refin-it-up-with-brian-hebner/The-Most-Electrifying-Podcast/",
+    "category" : "refin-it-up-with-brian-hebner",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "REFIN’ IT UP! with BRIAN HEBNER",
+    "author-url": "authors/refin-it-up-with-brian-hebner"
+
+  } ,
+  
+  {
+
     "title"    : "The Power Hour with MEATHOOKS OBANNON and a tribute to Jake Henry",
     "url"      : "/power-hour/videos/The-Power-Hour-with-MEATHOOKS-OBANNON-and-a-tribute-to-Jake-Henry/",
     "category" : "power-hour, videos",
