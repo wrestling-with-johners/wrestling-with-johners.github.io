@@ -28,9 +28,48 @@
   
   {
 
+    "title"    : "VICKY DREAMBOAT - WHAT DO YOU CALL IT? PODCAST! (FULL EPISODE) #NightmareFactory #AEW",
+    "url"      : "/what-do-you-call-it/VICKY-DREAMBOAT-WHAT-DO-YOU-CALL-IT-PODCAST-FULL-EPISODE-NightmareFactory-AEW/",
+    "category" : "what-do-you-call-it",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "WHAT DO YOU CALL IT? PODCAST!",
+    "author-url": "authors/what-do-you-call-it"
+
+  } ,
+  
+  {
+
+    "title"    : "VIDCAST 101! Featuring Miley",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-101-Featuring-Miley/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 34: The Boys Get a Surprise!",
     "url"      : "/shootin-sht/videos/Episode-34-The-Boys-Get-a-Surprise/",
     "category" : "shootin-sht, videos",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 34: The Boys get a surprise! ",
+    "url"      : "/shootin-sht/Episode-34-The-Boys-get-a-surprise/",
+    "category" : "shootin-sht",
     "date"     : "May 04, 2022",
     "excerpt"  : " ",
     
@@ -121,6 +160,32 @@
 
     "title"    : "Two big matches added to Impact Wrestling&#39;s Under Siege event",
     "url"      : "/alliance-pro-wrestling-network/videos/Two-big-matches-added-to-Impact-Wrestlings-Under-Siege-event/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "ROH talent is at AEW Dynamite and tapings tonight in Baltimore",
+    "url"      : "/alliance-pro-wrestling-network/videos/ROH-talent-is-at-AEW-Dynamite-and-tapings-tonight-in-Baltimore/",
+    "category" : "alliance-pro-wrestling-network, videos",
+    "date"     : "May 04, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Lewis Carlan",
+    "author-url": "authors/lewis-carlan"
+
+  } ,
+  
+  {
+
+    "title"    : "Impact Wrestling superstar almost left Impact to go to the WWE",
+    "url"      : "/alliance-pro-wrestling-network/videos/Impact-Wrestling-superstar-almost-left-Impact-to-go-to-the-WWE/",
     "category" : "alliance-pro-wrestling-network, videos",
     "date"     : "May 04, 2022",
     "excerpt"  : " ",
@@ -569,19 +634,6 @@
     
     "author"   : "John Scott",
     "author-url": "authors/john"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 101! Featuring Miley",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-101-Featuring-Miley/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "May 01, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
