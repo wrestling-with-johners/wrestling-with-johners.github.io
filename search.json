@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "Tornado Tag Podcast ep154 Car Ride To Bash At The Brewery!",
+    "url"      : "/tornado-tag/Tornado-Tag-Podcast-ep154-Car-Ride-To-Bash-At-The-Brewery/",
+    "category" : "tornado-tag",
+    "date"     : "May 07, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Tornado Tag Podcast",
+    "author-url": "authors/tornado-tag"
+
+  } ,
+  
+  {
+
     "title"    : "Throwback shoutouts from Ariana Grace, Georgia Smith and Josh Alexander",
     "url"      : "/straight-talk-wrestling/videos/Throwback-shoutouts-from-Ariana-Grace-Georgia-Smith-and-Josh-Alexander/",
     "category" : "straight-talk-wrestling, videos",
@@ -119,9 +132,22 @@
   
   {
 
-    "title"    : "NJPW Dontaku Review: Bullet Club&#39;s White &amp; Good Brothers back in Japan, Juice Robinson newest member",
-    "url"      : "/chokeslam-wrestling-report/videos/NJPW-Dontaku-Review-Bullet-Clubs-White-Good-Brothers-back-in-Japan-Juice-Robinson-newest-member/",
+    "title"    : "NJPW Dontaku Review: Jay White &amp; Good Brothers back in Japan, Mercedes Martinez new ROH Women Champ!",
+    "url"      : "/chokeslam-wrestling-report/videos/NJPW-Dontaku-Review-Jay-White-Good-Brothers-back-in-Japan-Mercedes-Martinez-new-ROH-Women-Champ/",
     "category" : "chokeslam-wrestling-report, videos",
+    "date"     : "May 07, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Chokeslam Wrestling Report",
+    "author-url": "authors/chokeslam-wrestling-report"
+
+  } ,
+  
+  {
+
+    "title"    : "NJPW Wrestling Dontaku Review: Jay White &amp; Good Brothers back in Japan, Mercedes Martinez new ROH Women Champ! AEW Dynamite Review",
+    "url"      : "/chokeslam-wrestling-report/NJPW-Wrestling-Dontaku-Review-Jay-White-Good-Brothers-back-in-Japan-Mercedes-Martinez-new-ROH-Women-Champ-AEW-Dynamite-Review/",
+    "category" : "chokeslam-wrestling-report",
     "date"     : "May 07, 2022",
     "excerpt"  : " ",
     
