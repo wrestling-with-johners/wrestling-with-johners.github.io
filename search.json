@@ -106,6 +106,32 @@
   
   {
 
+    "title"    : "GKM Interview",
+    "url"      : "/bob-culture/videos/GKM-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "May 09, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "GKM Interview",
+    "url"      : "/bob-culture/interviews/GKM-Interview/",
+    "category" : "bob-culture, interviews",
+    "date"     : "May 09, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "News and Notes for Impact Wrestling&#39;s May Day TV Tapings - Indy star returns!!!",
     "url"      : "/alliance-pro-wrestling-network/videos/News-and-Notes-for-Impact-Wrestlings-May-Day-TV-Tapings-Indy-star-returns/",
     "category" : "alliance-pro-wrestling-network, videos",
