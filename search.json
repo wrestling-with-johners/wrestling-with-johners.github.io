@@ -15,6 +15,19 @@
   
   {
 
+    "title"    : "Episode 34.5: The Owen",
+    "url"      : "/shootin-sht/Episode-345-The-Owen/",
+    "category" : "shootin-sht",
+    "date"     : "May 11, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
+
+  } ,
+  
+  {
+
     "title"    : "Holding Court w/ The King",
     "url"      : "/ringside-rant/Holding-Court-w-The-King/",
     "category" : "ringside-rant",
@@ -44,6 +57,19 @@
     "title"    : "Traxx Interview",
     "url"      : "/bob-culture/videos/Traxx-Interview/",
     "category" : "bob-culture, videos",
+    "date"     : "May 11, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "Traxx Interview",
+    "url"      : "/bob-culture/interviews/Traxx-Interview/",
+    "category" : "bob-culture, interviews",
     "date"     : "May 11, 2022",
     "excerpt"  : " ",
     
