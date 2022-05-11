@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "Traxx Interview",
+    "url"      : "/bob-culture/videos/Traxx-Interview/",
+    "category" : "bob-culture, videos",
+    "date"     : "May 11, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "Progress Wrestling (Chapter 134) Preview &#39;No Mountain High Enough&#39; w/ special guest Simon Miller",
     "url"      : "/videos/wrestling-with-johners/Progress-Wrestling-Chapter-134-Preview-No-Mountain-High-Enough-w-special-guest-Simon-Miller/",
     "category" : "videos, wrestling-with-johners",
