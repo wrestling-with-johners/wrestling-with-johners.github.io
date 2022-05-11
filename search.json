@@ -41,6 +41,19 @@
   
   {
 
+    "title"    : "VIDCAST 102! Featuring Brian Soloman",
+    "url"      : "/straight-talk-wrestling/videos/VIDCAST-102-Featuring-Brian-Soloman/",
+    "category" : "straight-talk-wrestling, videos",
+    "date"     : "May 11, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "George McKay",
+    "author-url": "authors/george-mckay"
+
+  } ,
+  
+  {
+
     "title"    : "Episode 34.5: The Owen",
     "url"      : "/shootin-sht/videos/Episode-345-The-Owen/",
     "category" : "shootin-sht, videos",
@@ -504,19 +517,6 @@
     
     "author"   : "It’s Time To Fight!! Hosted by Matthew Terry",
     "author-url": "authors/time-to-fight"
-
-  } ,
-  
-  {
-
-    "title"    : "VIDCAST 102! Featuring Brian Soloman",
-    "url"      : "/straight-talk-wrestling/videos/VIDCAST-102-Featuring-Brian-Soloman/",
-    "category" : "straight-talk-wrestling, videos",
-    "date"     : "May 08, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "George McKay",
-    "author-url": "authors/george-mckay"
 
   } ,
   
