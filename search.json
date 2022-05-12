@@ -2,6 +2,32 @@
   
   {
 
+    "title"    : "MIA CORTEZ Interview - Wrestling With Johners LIVE!",
+    "url"      : "/videos/wrestling-with-johners/MIA-CORTEZ-Interview-Wrestling-With-Johners-LIVE/",
+    "category" : "videos, wrestling-with-johners",
+    "date"     : "May 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "John Scott",
+    "author-url": "authors/john"
+
+  } ,
+  
+  {
+
+    "title"    : "Alex Windsor Interview - Wrestle Carnival &#39;Carnival of Champions&#39; 30/01/22",
+    "url"      : "/videos/wrestling-with-johners/Alex-Windsor-Interview-Wrestle-Carnival-Carnival-of-Champions-300122/",
+    "category" : "videos, wrestling-with-johners",
+    "date"     : "May 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "John Scott",
+    "author-url": "authors/john"
+
+  } ,
+  
+  {
+
     "title"    : "That time I got to backstage interview Serena Deeb",
     "url"      : "/straight-talk-wrestling/videos/That-time-I-got-to-backstage-interview-Serena-Deeb/",
     "category" : "straight-talk-wrestling, videos",
@@ -36,6 +62,19 @@
     
     "author"   : "Snap Crackle and Cheap Pops: The PW4U Podcast",
     "author-url": "authors/snap-crackle-and-cheap-pops"
+
+  } ,
+  
+  {
+
+    "title"    : "Episode 35: Our “Botchamania” Special",
+    "url"      : "/shootin-sht/Episode-35-Our-Botchamania-Special/",
+    "category" : "shootin-sht",
+    "date"     : "May 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Shootin' Sh*t Podcast!",
+    "author-url": "authors/shootin-sht"
 
   } ,
   
@@ -80,8 +119,8 @@
   
   {
 
-    "title"    : "Vince the Voice Intervierw",
-    "url"      : "/bob-culture/videos/Vince-the-Voice-Intervierw/",
+    "title"    : "Vince the Voice Interview",
+    "url"      : "/bob-culture/videos/Vince-the-Voice-Interview/",
     "category" : "bob-culture, videos",
     "date"     : "May 12, 2022",
     "excerpt"  : " ",
