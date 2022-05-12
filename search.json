@@ -80,6 +80,32 @@
   
   {
 
+    "title"    : "Vince the Voice Intervierw",
+    "url"      : "/bob-culture/videos/Vince-the-Voice-Intervierw/",
+    "category" : "bob-culture, videos",
+    "date"     : "May 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
+    "title"    : "Vince the Voice Interview",
+    "url"      : "/bob-culture/interviews/Vince-the-Voice-Interview/",
+    "category" : "bob-culture, interviews",
+    "date"     : "May 12, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "The Bob Culture Podcast",
+    "author-url": "authors/bob-culture"
+
+  } ,
+  
+  {
+
     "title"    : "SMASHING MIKE Interview (UBW Tag Team Champ, West Side Heat, Young Lions title &amp; so much more!)",
     "url"      : "/videos/wrestling-with-johners/SMASHING-MIKE-Interview-UBW-Tag-Team-Champ-West-Side-Heat-Young-Lions-title-so-much-more/",
     "category" : "videos, wrestling-with-johners",
