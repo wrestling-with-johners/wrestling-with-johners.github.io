@@ -2,6 +2,19 @@
   
   {
 
+    "title"    : "MIA CORTEZ Interview - Wrestling With Johners LIVE!",
+    "url"      : "/videos/wrestling-with-johners/MIA-CORTEZ-Interview-Wrestling-With-Johners-LIVE/",
+    "category" : "videos, wrestling-with-johners",
+    "date"     : "May 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "John Scott",
+    "author-url": "authors/john"
+
+  } ,
+  
+  {
+
     "title"    : "The Power Hour w: Joey Mayberry, and Chaos",
     "url"      : "/power-hour/videos/The-Power-Hour-w-Joey-Mayberry-and-Chaos/",
     "category" : "power-hour, videos",
@@ -790,19 +803,6 @@
     
     "author"   : "The Bob Culture Podcast",
     "author-url": "authors/bob-culture"
-
-  } ,
-  
-  {
-
-    "title"    : "MIA CORTEZ Interview - Wrestling With Johners LIVE!",
-    "url"      : "/videos/wrestling-with-johners/MIA-CORTEZ-Interview-Wrestling-With-Johners-LIVE/",
-    "category" : "videos, wrestling-with-johners",
-    "date"     : "May 12, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "John Scott",
-    "author-url": "authors/john"
 
   } ,
   
