@@ -41,6 +41,32 @@
   
   {
 
+    "title"    : "Can You See Him?",
+    "url"      : "/ringside-rant/Can-You-See-Him/",
+    "category" : "ringside-rant",
+    "date"     : "May 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Ringside Rant",
+    "author-url": "authors/ringside-rant"
+
+  } ,
+  
+  {
+
+    "title"    : "Can You See Him?",
+    "url"      : "/refin-it-up-with-brian-hebner/Can-You-See-Him/",
+    "category" : "refin-it-up-with-brian-hebner",
+    "date"     : "May 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "REFIN’ IT UP! with BRIAN HEBNER",
+    "author-url": "authors/refin-it-up-with-brian-hebner"
+
+  } ,
+  
+  {
+
     "title"    : "The Power Hour w: Joey Mayberry, and Chaos",
     "url"      : "/power-hour/videos/The-Power-Hour-w-Joey-Mayberry-and-Chaos/",
     "category" : "power-hour, videos",
@@ -49,6 +75,32 @@
     
     "author"   : "The Power Hour",
     "author-url": "authors/power-hour"
+
+  } ,
+  
+  {
+
+    "title"    : "Death Match Russell PodCast Live With Owner Of Indie Wrestling Corner Podcast Queen Of The Indies",
+    "url"      : "/death-match-russell/videos/Death-Match-Russell-PodCast-Live-With-Owner-Of-Indie-Wrestling-Corner-Podcast-Queen-Of-The-Indies/",
+    "category" : "death-match-russell, videos",
+    "date"     : "May 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "Death Match Russell Podcast",
+    "author-url": "authors/death-match-russell"
+
+  } ,
+  
+  {
+
+    "title"    : "Conversations with Kenny",
+    "url"      : "/da-call-up/videos/Conversations-with-Kenny/",
+    "category" : "da-call-up, videos",
+    "date"     : "May 18, 2022",
+    "excerpt"  : " ",
+    
+    "author"   : "DA CALL UP",
+    "author-url": "authors/da-call-up"
 
   } ,
   
@@ -517,19 +569,6 @@
     
     "author"   : "George McKay",
     "author-url": "authors/george-mckay"
-
-  } ,
-  
-  {
-
-    "title"    : "Death Match Russell PodCast Live With Owner Of Indie Wrestling Corner Podcast Queen Of The Indies",
-    "url"      : "/death-match-russell/videos/Death-Match-Russell-PodCast-Live-With-Owner-Of-Indie-Wrestling-Corner-Podcast-Queen-Of-The-Indies/",
-    "category" : "death-match-russell, videos",
-    "date"     : "May 14, 2022",
-    "excerpt"  : " ",
-    
-    "author"   : "Death Match Russell Podcast",
-    "author-url": "authors/death-match-russell"
 
   } ,
   
